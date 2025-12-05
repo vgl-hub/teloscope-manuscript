@@ -1,0 +1,717 @@
+Order,Lineage,Extended lineage,Scientific Name,English Name,Assembly ID,Assembly ID main haplotype,Accession # for main haplotype,RefSeq annotation main haplotype,UCSC Browser main haplotype,Assembly tech,sex
+m1,Mammals,Mammals,Elephas maximus indicus,Asian elephant,mEleMax1,mEleMax1.pri,GCA_024166365.1,GCF_024166365.1,GCF_024166365.1,"HiFi, Hifiasm solo",M
+m1,Mammals,Mammals,Loxodonta africana,African elephant,mLoxAfr1,mLoxAfr1.hap2,GCA_030014295.1,GCF_030014295.1,GCF_030014295.1,"HiFi, Hifiasm Hi-C phasing",M
+m2,Mammals,Mammals,Heterohyrax brucei,yellow-spotted rock hyrax,mHetBru1,mHetBru1.pri,GCA_028571685.1,,GCA_028571685.1,"HiFi, Hifiasm solo",M
+m3,Mammals,Mammals,Dugong dugon,dugong,mDugDug1,mDugDug1.hap1,GCA_030035585.1,,GCA_030035585.1,"HiFi, Hifiasm Hi-C phasing",F
+m3,Mammals,Mammals,Trichechus inunguis,Amazon manatee,mTriInu1,mTriInu1.hap2,GCA_046562895.1,,GCA_046562895.1,"HiFi, Hifiasm Hi-C phasing",M
+m4,Mammals,Mammals,Rhynchocyon petersi,black and rufous elephant shrew,mRhyPet1,mRhyPet1.hap1,GCA_043290085.1,,GCA_043290085.1,"HiFi, Hifiasm Hi-C phasing",M
+m5,Mammals,Mammals,Tenrec ecaudatus,tailless tenrec,mTenEca1,mTenEca1.hap1,,,,,
+m6,Mammals,Mammals,Amblysomus hottentotus,hottentot golden mole,,,,,,,
+m7,Mammals,Mammals,Orycteropus afer,aardvark,,,,,,,
+m8,Mammals,Mammals,Tamandua tetradactyla,Southern tamandua ,mTamTet1,mTamTet1.pri,GCA_023851605.1,,GCA_023851605.1,"CLR I, FALCON unzip",M
+m9,Mammals,Mammals,Choloepus didactylus,Linnaeus's two-toed sloth,mChoDid1,mChoDid1.pri,GCA_015220235.1,GCF_015220235.1,GCF_015220235.1,"CLR I, FALCON unzip",M
+m10,Mammals,Mammals,Dasypus novemcinctus,nine-banded armadillo,mDasNov1,mDasNov1.1.hap2,GCA_030445035.2,GCF_030445035.2,GCF_030445035.2,"HiFi, Hifiasm Hi-C phasing",M
+m11,Mammals,Mammals,Homo sapiens,human,T2T-CHM13v2.0,T2T-CHM13v2,GCA_009914755.4,,GCA_009914755.4,"HiFi, ONT, Verkko",M
+m11,Mammals,Mammals,Pan troglodytes,chimpanzee,mPanTro3,mPanTro3.hap1,GCA_028858775.2,GCF_028858775.2,GCF_028858775.2,"HiFi, ONT, Verkko + Hi-C phasing",M
+m11,Mammals,Mammals,Pan paniscus,bonobo,mPanPan1,mPanPan1.pri,GCA_029289425.3,GCF_029289425.2,GCF_029289425.2,"HiFi, ONT, Verkko trio",M
+m11,Mammals,Mammals,Gorilla gorilla,gorilla,mGorGor1,mGorGor1.pri,GCA_029281585.3,GCF_029281585.2,GCF_029281585.2,"HiFi, ONT, Verkko trio",M
+m11,Mammals,Mammals,Pongo abelii,Sumatran orangutan,mPonAbe1,mPonAbe1.hap1,GCA_028885655.2,GCF_028885655.2,GCF_028885655.2,"HiFi, ONT, Verkko trio",M
+m11,Mammals,Mammals,Pongo pygmaeus,Bornean orangutan,mPonPyg2,mPonPyg2.hap1,GCA_028885625.2,GCF_028885625.2,GCF_028885625.2,"HiFi, ONT, Verkko + Hi-C phasing",M
+m11,Mammals,Mammals,Symphalangus syndactylus,siamang gibbon,mSymSyn1,mSymSyn1.hap1,GCA_028878055.3,GCF_028878055.3,GCF_028878055.3,"HiFi, ONT, Verkko + Hi-C phasing",M
+m11,Mammals,Mammals,Macaca fascicularis,crab-eating macaque,T2T-MFA8v1.0,mMacFas1.hap1,GCA_037993035.1,GCF_037993035.1,GCF_037993035.1,Verkko HiFi + ONT,F
+m11,Mammals,Mammals,Macaca nemestrina,pig-tailed macaque,mMacNem1,mMacNem1.hap1,GCA_043159975.1,GCF_043159975.1,GCF_043159975.1,"HiFi, Hifiasm Hi-C phasing",M
+m12,Mammals,Mammals,Callithrix jacchus,common marmoset,mCalJac2,mCalJac2.pri,GCA_049354715.1,,GCA_049354715.1,"RSII, ONT, Verkko",M
+m12,Mammals,Mammals,Saimiri boliviensis,Bolivian squirrel monkey,mSaiBol1,mSaiBol1.pri,GCA_048565385.1,,GCA_048565385.1,"HiFi, Hifiasm solo",M
+m12,Mammals,Mammals,Ateles marginatus,white-cheeked spider monkey,mAteMar1,,,,,,
+m12,Mammals,Mammals,Chiropotes utahicki,Uta Hick's bearded saki,mChiUta1,mChiUta1.hap1,,,,,
+m13,Mammals,Mammals,Carlito syrichta,Philippine tarsier,,,,,,,
+m14,Mammals,Mammals,Nycticebus coucang,sunda slow loris,mNycCou1,mNycCou1.pri,GCA_027406575.1,GCF_027406575.1,GCF_027406575.1,"HiFi, Hifiasm solo",M
+m15,Mammals,Mammals,Lemur catta,ring-tailed lemur,mLemCat1,mLemCat1.pri,GCA_020740605.1,GCF_020740605.2,GCF_020740605.2,"HiFi, Hifiasm solo",M
+m16,Mammals,Mammals,Cynocephalus volans,Philippine flying lemur,mCynVol1,mCynVol1.pri,GCA_027409185.1,GCF_027409185.1,GCF_027409185.1,"HiFi, Hifiasm solo",M
+m17,Mammals,Mammals,Erethizon dorsatum,North American porcupine,mEreDor1,mEreDor1.pri,GCA_028451465.1,,GCA_028451465.1,"CLR I, FALCON unzip",M
+m18,Mammals,Mammals,Ctenodactylus gundi,common gundi,mCteGun2,mCteGun2.hap1,GCA_048771875.1,,GCA_048771875.1,,F
+m19,Mammals,Mammals,Muscardinus avellanarius,common dormouse,mMusAve1,mMusAve1.pri,GCA_963383645.1,,GCA_963383645.1,"HiFi, Hifiasm solo",M
+m20,Mammals,Mammals,Sciurus vulgaris,Eurasian red squirrel,mSciVul1.2,mSciVul1.2.pri,GCA_902686455.2,,GCA_902686455.2,"CLR I, FALCON unzip",M
+m20,Mammals,Mammals,Sciurus carolinensis,grey squirrel,mSciCar1,mSciCar1.2.pri,GCA_902686445.2,,GCA_902686445.2,"CLR I, FALCON unzip",M
+m20,Mammals,Mammals,Urocitellus parryii,Arctic ground squirrel,mUroPar1,mUroPar1.hap1,GCA_045843805.1,,GCA_045843805.1,"HiFi, Hifiasm Hi-C phasing",M
+m20,Mammals,Mammals,Spermophilus citellus,European ground squirrel,mSpeCit3,mSpeCit3.pri,GCA_964194105.1,,GCA_964194105.1,"HiFi, Hifiasm solo",F
+m20,Mammals,Mammals,Callospermophilus lateralis,golden-mantled ground squirrel,mCalLat2,mCalLat2.hap1,GCA_048772815.1,,GCA_048772815.1,"HiFi, Hifiasm Hi-C phasing",M
+m20,Mammals,Mammals,Marmota flaviventris,yellow bellied marmot,mMarFla1,mMarFla1.hap1,GCA_047511675.1,GCF_047511675.1,GCF_047511675.1,"HiFi, Hifiasm Hi-C phasing",M
+m21,Mammals,Mammals,Aplodontia rufa,mountain beaver,,,,,,,
+m22,Mammals,Mammals,Acomys russatus,golden spiny mouse,mAcoRus1,mAcoRus1.pri,GCA_903995435.1,GCF_903995435.1,GCF_903995435.1,"CLR, FALCON unzip",F
+m22,Mammals,Mammals,Apodemus sylvaticus,European woodmouse,mApoSyl1,mApoSyl1.pri,GCA_947179515.1,GCF_947179515.1,GCF_947179515.1,"HiFi, Hifiasm solo",M
+m22,Mammals,Mammals,Arvicanthis niloticus,Nile rat,mArvNil1,mArvNil1.pat,GCA_011762505.3,,GCA_011762505.3,"CLR, TrioCanu",M
+m22,Mammals,Mammals,Rattus norvegicus,Norway rat,mRatNor1,mRatNor1.pri,GCA_015227675.2,GCF_015227675.2,GCF_015227675.2,"CLR, FALCON unzip",M
+m22,Mammals,Mammals,Micromys minutus,European harvest mouse,mMicMin1,mMicMin1.pri,GCA_963924665.1,,GCA_963924665.1,"HiFi, Hifiasm solo",F
+m22,Mammals,Mammals,Mus musculus,house mouse,mMusMuc1.1,mMusMuc1.pri,GCA_949316315.1,,GCA_949316315.1,"HiFi, Hifiasm solo",F
+m22,Mammals,Mammals,Acomys minous,Crete spiny mouse,mAcoMin1,mAcoMin1.pri,GCA_964271855.1,,GCA_964271855.1,"HiFi, Hifiasm solo",F
+m59,Mammals,Mammals,Microtus pennsylvanicus,Eastern meadow vole,mMicPen1,mMicPen1.hap1,GCA_037038515.1,,GCA_037038515.1,"HiFi, Hifiasm Hi-C phasing",M
+m59,Mammals,Mammals,Onychomys torridus,Southern grasshopper mouse,mOncTor1,mOncTor1.pri,GCA_903995425.1,GCF_903995425.1,GCF_903995425.1,"CLR I, FALCON",F
+m59,Mammals,Mammals,Arvicola amphibius,European water vole,mArvAmp1,mArvAmp1.pri,GCA_903992535.2,GCF_903992535.2,GCF_903992535.2,"CLR, FALCON unzip",F
+m59,Mammals,Mammals,Chionomys nivalis,European snow vole,mChiNiv1,mChiNiv1.pri,GCA_950005125.1,GCF_950005125.1,GCF_950005125.1,"HiFi hifiasm, solo",M
+m59,Mammals,Mammals,Peromyscus maniculatus,deer mouse,mPerMan1,mPerMan1.pri,GCA_026229955.1,,GCA_026229955.1,"HiFi hifiasm, solo",M
+m59,Mammals,Mammals,Peromyscus gossypinus,cotton mouse,mPerGos1,,,,,,
+m59,Mammals,Mammals,Neotoma floridana,Eastern woodrat,mNeoFlo1,mNeoFlo1.hap1,,,,,M
+m23,Mammals,Mammals,Jaculus jaculus,Lesser Egyptian jerboa,mJacJac1,mJacJac1.mat,GCA_020740685.1,GCF_020740685.1,GCF_020740685.1,"CLR II, TrioCanu",M
+m24,Mammals,Mammals,Anomalurus beecrofti,Beecroft's flying squirrel,,,,,,,
+m25,Mammals,Mammals,Pedetes capensis,South African springhare,,,,,,,
+m26,Mammals,Mammals,Thomomys bottae,Botta's pocket gopher,mThoBot2,mThoBot2.hap1,GCA_031878675.1,,GCA_031878675.1,"HiFi, Hifiasm Hi-C phasing",M
+m27,Mammals,Mammals,Castor canadensis,North American beaver,mCasCan1,mCasCan1.hap1,GCA_047511655.1,,GCA_047511655.1,"HiFi, Hifiasm Hi-C phasing",F
+m28,Mammals,Mammals,Oryctolagus cuniculus,European rabbit,mOryCun1,mOryCun1.pri,GCA_964237555.1,GCF_964237555.1,GCF_964237555.1,"Hifi, Hifiasm solo",F
+m29,Mammals,Mammals,Ochotona princeps,American pika,mOchPri1,mOchPri1.hap1,GCA_030435755.1,GCF_030435755.1,GCF_030435755.1,"HiFi, Hifiasm Hi-C phasing",M
+m30,Mammals,Mammals,Tupaia tana,large treeshrew,mTupTan1,mTupTan1.pri,GCA_026018925.1,,GCA_026018925.1,"CLR I, FALCON unzip",UN
+m31,Mammals,Mammals,Ptilocercus lowii,pen-tailed treeshrew,,,,,,,
+m32,Mammals,Mammals,Phocoena sinus,vaquita,mPhoSin1,mPhoSin1.pri,GCA_008692025.1,GCF_008692025.1,GCF_008692025.1,"CLR I, FALCON unzip",F
+m32,Mammals,Mammals,Phocoena phocoena,harbor porpoise,mPhoPho1,mPhoPho1.pri,GCA_963924675.1,GCF_963924675.1,GCF_963924675.1,"HiFi, Hifiasm solo",F
+m32,Mammals,Mammals,Tursiops truncatus,bottlenose dolphin,mTurTru1,mTurTru1.mat,GCA_011762595.2,GCF_011762595.1,GCF_011762595.1,"CLR I, TrioCanu",M
+m32,Mammals,Mammals,Pseudorca crassidens,false killer whale,mPseCra1,mPseCra1.hap1,GCA_039906515.1,GCF_039906515.1,GCF_039906515.1,"HiFi, Hifiasm Hi-C phasing",M
+m32,Mammals,Mammals,Peponocephala electra,melon-headed whale,mPepEle1,,,,,,
+m32,Mammals,Mammals,Lagenorhynchus acutus,Atlantic white-sided dolphin,mLagAcu1,mLagAcu1.hap1,GCA_964270905.1,,GCA_964270905.1,"HiFi, Hifiasm Hi-C phasing",M
+m32,Mammals,Mammals,Orcinus orca,killer whale,mOrcOrc1,mOrcOrc1.pri,GCA_937001465.1,GCF_937001465.1,GCF_937001465.1,"HiFi, Hifiasm solo",F
+m32,Mammals,Mammals,Lagenorhynchus albirostris,white-beaked dolphin,mLagAlb1,mLagAlb1.pri,GCA_949774975.1,GCF_949774975.1,GCF_949774975.1,"HiFi, Hifiasm solo",F
+m32,Mammals,Mammals,Globicephala melas,long-finned pilot whale,mGloMel1,mGloMel1.pri,GCA_963455315.2,GCF_963455315.2,GCF_963455315.2,"HiFi, Hifiasm solo",M
+m32,Mammals,Mammals,Grampus griseus,Risso's dolphin,mGraGri1,mGraGri1.hap1,GCA_964374135.1,,GCA_964374135.1,"HiFi, Hifiasm Hi-C phasing",M
+m32,Mammals,Mammals,Inia geoffrensis,Amazon river dolphin,mIniGeo1,mIniGeo1.hap1,GCA_036417435.1,,GCA_036417435.1,"CLR I, FALCON unzip",M
+m32,Mammals,Mammals,Delphinus delphis,saddleback dolphin,mDelDel1.1,mDelDel1.pri,GCA_949987515.2,GCF_949987515.2,GCF_949987515.2,"Hifi, Hifiasm solo",M
+m32,Mammals,Mammals,Balaenoptera musculus,blue whale,mBalMus1,mBalMus1.3.pri,GCA_009873245.3,GCF_009873245.2,GCF_009873245.2,"CLR I, FALCON unzip",M
+m32,Mammals,Mammals,Stenella coeruleoalba,striped dolphin,mSteCoe1.1,mSteCoe1.pri,GCA_951394435.1,,GCA_951394435.1,"HiFi, Hifiasm solo",M
+m33,Mammals,Mammals,Eschrichtius robustus,gray whale,mEscRob2,mEscRob2.pri,GCA_028021215.1,GCF_028021215.1,GCF_028021215.1,"HiFi, Hifiasm solo",M
+m32,Mammals,Mammals,Balaenoptera ricei,Rice's whale,mBalRic1,mBalRic1.hap2,GCA_028023285.1,GCF_028023285.1,GCF_028023285.1,"HiFi, Hifiasm Hi-C phasing",F
+m32,Mammals,Mammals,Balaenoptera acutorostrata,common minke whale,mBalAcu1.1,mBalAcu1.pri,GCA_949987535.1,GCF_949987535.1,GCF_949987535.1,"HiFi, Hifiasm solo",F
+m32,Mammals,Mammals,Megaptera novaeangliae,humpback whale,mMegNov1,mMegNov1.pri,GCA_041834305.1,,GCA_041834305.1,"HiFi, Hifiasm solo",M
+m32,Mammals,Mammals,Balaenoptera physalus,finback whale,mBalPhy1,mBalPhy1.hap1,GCA_965194825.1,,GCA_965194825.1,"HiFi, Hifiasm Hi-C phasing",M
+m32,Mammals,Mammals,Balaenoptera borealis,sei whale,mBalBor1,mBalBor1.hap1,GCA_965194805.1,,GCA_965194805.1,"HiFi, Hifiasm Hi-C phasing",F
+m32,Mammals,Mammals,Mesoplodon densirostris,Blainville's beaked whale,mMesDen1,mMesDen1.pri,GCA_025265405.1,GCF_025265405.1,GCF_025265405.1,"HiFi, Hifiasm solo",M
+m32,Mammals,Mammals,Mesoplodon bidens,Sowerby's beaked whale,mMesBid2,mMesBid2.hap1,GCA_964165515.1,,GCA_964165515.1,"HiFi, Hifiasm Hi-C phasing",M
+m32,Mammals,Mammals,Mesoplodon mirus,True's beaked whale,mMesMir1,mMesMir1.hap1,GCA_964341445.1,,GCA_964341445.1,"HiFi, Hifiasm Hi-C phasing",F
+m32,Mammals,Mammals,Hyperoodon ampullatus,North Atlantic bottlenose whale,mHypAmp2.1,mHypAmp2.pri,GCA_949752795.1,,GCA_949752795.1,"HiFi, Hifiasm solo",F
+m32,Mammals,Mammals,Kogia breviceps,pygmy sperm whale,mKogBre1,mKogBre1.hap1,GCA_026419965.1,GCF_026419965.1,GCF_026419965.1,"HiFi, Hifiasm Hi-C phasing",F
+m32,Mammals,Mammals,Eubalaena glacialis,North Atlantic right whale,mEubGla1,mEubGla1.hap2,GCA_028564815.2,GCF_028564815.1,GCF_028564815.1,"HiFi, Hifiasm Hi-C phasing",M
+m32,Mammals,Mammals,Monodon monocero,narwhal,mMonMon1,mMonMon1.pri,GCA_005190385.3,,GCA_005190385.3,"CLR I, FALCON unzip",M
+m33,Mammals,Mammals,Hippopotamus amphibius,common hippopotamus,mHipAmp2,mHipAmp2.hap2,GCA_030028045.1,GCF_030028045.1,GCF_030028045.1,"HiFi, Hifiasm Hi-C phasing",F
+m34,Mammals,Mammals,Ovis canadensis,bighorn sheep,mOviCan1,mOviCan1.pri,GCA_042477335.2,GCF_042477335.2,GCF_042477335.2,"HiFi, ONT, Hi-C, Verkko",M
+m34,Mammals,Mammals,Ovis aries,domestic sheep,mOviAri1,mOviAri1.pri,GCA_040805955.1,,GCA_040805955.1,"HiFi, ONT, Hi-C, HiFiasm trio",M
+m34,Mammals,Mammals,Bos taurus,Brahman cow,UOA_Brahman_1,mBosTauInd1.mat,GCA_003369695.2,GCF_003369695.1,GCF_003369695.1,"RSII, TrioCanu",M
+m34,Mammals,Mammals,Cephalophula zebra,zebra duiker,mCepZeb1,,,,,,
+m34,Mammals,Mammals,Capra hircus,goat,mCapHir4,mCapHir4.pri,GCA_041735815.1,,GCA_041735815.1,"HiFi, ONT, HiFiasm trio",M
+m34,Mammals,Mammals,Cervus elaphus,red deer,mCerEla1,mCerEla1.pri,GCA_910594005.1,GCF_910594005.1,GCF_910594005.1,"HiFi, Hifiasm solo",F
+m34,Mammals,Mammals,Muntiacus reevesi,Reeves' muntjac,mMunRee1,mMunRee1.pri,GCA_963930625.1,GCF_963930625.1,GCF_963930625.1,"HiFi, Hifiasm solo",F
+m34,Mammals,Mammals,Dama dama,fallow deer,mDamDam1,mDamDam1.mat,GCA_048126745.1,,GCA_048126745.1,"HiFi, Hifiasm Hi-C phasing",M
+m35,Mammals,Mammals,Sus scrofa,pig,mSusScr2,mSusScr2.pri,GCA_048338725.1,,GCA_048338725.1,"HiFi, ONT, HiFiasm trio",M
+m35,Mammals,Mammals,Babyrousa celebensis,North Sulawesi babirusa,mBabCel1,,,,,,
+m36,Mammals,Mammals,Camelus dromedarius,Dromedary camel,mCamDro1,mCamDro1.pat,GCA_036321535.1,GCF_036321535.1,GCF_036321535.1,"HiFi, Hifiasm Hi-C phasing",M
+m36,Mammals,Mammals,Vicugna pacos,Alpaca,mVicPac1,,,,,,
+m37,Mammals,Mammals,Equus caballus,Arabian horse,mEquCab1,mEquCab1.pat,GCA_036426135.1,,GCA_036426135.1,"HiFi, Hifiasm Trio",M
+m37,Mammals,Mammals,Equus grevyi,Grevy's zebra,mEquGre1,mEquGre1.hap1,,,,,
+m38,Mammals,Mammals,Diceros bicornis minor,Southern black rhinoceros,mDicBic1,mDicBic1.mat,GCA_020826845.1,GCF_020826845.1,GCF_020826845.1,"HiFi, Hifiasm Trio",F
+m39,Mammals,Mammals,Tapirus indicus,Malayan tapir,mTapInd1,mTapInd1.hap2,GCA_031878705.1,,GCA_031878705.1,"HiFi, Hifiasm Hi-C phasing",F
+m40,Mammals,Mammals,Phyllostomus discolor,pale spear-nosed bat,mPhyDis1,mPhyDis1.pri,GCA_004126475.3,GCF_004126475.2,GCF_004126475.2,"CLR I, FALCON unzip",M
+m40,Mammals,Mammals,Artibeus lituratus,great fruit-eating bat,mArtLit1,mArtLit1.hap1,GCA_038363095.2,,GCA_038363095.2,"HiFi, Hifiasm Hi-C phasing",M
+m40,Mammals,Mammals,Artibeus intermedius,intermediate fruit-eating bat,mArtInt1,mArtInt1.hap1,GCA_038363145.1,,GCA_038363145.1,"HiFi, Hifiasm Hi-C phasing",M
+m40,Mammals,Mammals,Glossophaga mutica,Merriam's long-tongued bat,mGloMut1,mGloMut1.hap1,GCA_039655065.1,,GCA_039655065.1,"HiFi, Hifiasm Hi-C phasing",F
+m40,Mammals,Mammals,Lophostoma evotis,Davis's round-eared bat,mLopEvo1,mLopEvo1.hap1,,,,,
+m40,Mammals,Mammals,Micronycteris microtis,common big-eared bat,mMicMic1,,,,,,
+m40,Mammals,Mammals,Platyrrhinus helleri,Heller's broad-nosed bat,mPlaHel1,mPlaHel1.hap1,,,,,M
+m40,Mammals,Mammals,Sturnira parvidens,little yellow-shouldered Mesoamerican bat,mStuPar1,,,,,,
+m40,Mammals,Mammals,Desmodus rotundus,common vampire bat,mDesRot1,mDesRot1.hap1,GCA_022682495.2,,GCA_022682495.2,"HiFi, Hifiasm Hi-C phasing",M
+m40,Mammals,Mammals,Lophostoma evotis,Davis' round-eared bat,,,,,,,
+m40,Mammals,Mammals,Micronycteris microtis,common big-eared bat,,,,,,,
+m40,Mammals,Mammals,Carollia sowelli,Sowell's short-tailed bat,mCarSow1,mCarSow1.hap1,,,,"HiFi, Hifiasm Hi-C phasing",
+m40,Mammals,Mammals,Molossus alvarezi,Alvarez's mastiff bat,mMolAlv2,mMolAlv2.hap1,GCA_037157525.1,,GCA_037157525.1,"HiFi, Hifiasm Hi-C phasing",F
+m40,Mammals,Mammals,Molossus molossus,Pallas's mastiff bat,mMolMol1,mMolMol1.pri,GCA_014108415.1,GCF_014108415.1,GCF_014108415.1,"CLR I, DAmar",M
+m40,Mammals,Mammals,Molossus nigricans,Ebon mastiff bat,mMolNig1,mMolNig1.hap1,GCA_039880945.1,,GCA_039880945.1,"HiFi, Hifiasm Hi-C phasing",M
+m40,Mammals,Mammals,Tadarida brasiliensis,Brazilian free-tailed bat,mTadBra1,mTadBra1.pri,GCA_030848825.1,,GCA_030848825.1,"HiFi, Hifiasm solo",M
+m40,Mammals,Mammals,Mops condylurus,Angolan free-tailed bat,mMopCon1,mMopCon1.pri,GCA_043748645.1,,GCA_043748645.1,"HiFi, Hifiasm solo",M
+m40,Mammals,Mammals,Myotis myotis,greater mouse-eared bat,mMyoMyo1,mMyoMyo1.pri,GCA_014108235.1,GCF_014108235.1,GCF_014108235.1,"CLR I, DAmar",F
+m40,Mammals,Mammals,Myotis daubentonii,Daubenton's bat,mMyoDau2,mMyoDau2.pri,GCA_963259705.1,GCF_963259705.1,GCF_963259705.1,"HiFi, Hifiasm solo",M
+m40,Mammals,Mammals,Myotis nigricans,black myotis,,,,,,,
+m40,Mammals,Mammals,Myotis mystacinus,whiskered bat,mMyoMys1,mMyoMys1.hap1,GCA_964094495.2,,GCA_964094495.2,"HiFi, Hifiasm Hi-C phasing",M
+m40,Mammals,Mammals,Myotis nattereri,Natterer's bat,mMyoNat1,mMyoNat1.hap1,GCA_964212035.2,,GCA_964212035.2,"HiFi, Hifiasm Hi-C phasing",M
+m40,Mammals,Mammals,Myotis emarginatus,Geoffroy's bat,mMyoEma1,mMyoEma1.hap1,GCA_965115925.1,,GCA_965115925.1,"HiFi, HiFiasm Hi-C phasing",F
+m40,Mammals,Mammals,Pipistrellus kuhlii,Kuhl's pipistrelle,mPipKuh1,mPipKuh1.pri,GCA_014108245.1,GCF_014108245.1,GCF_014108245.1,"CLR I, DAmar",M
+m40,Mammals,Mammals,Pipistrellus pipistrellus,common pipistrelle,mPipPip1,mPipPip1.pri,GCA_903992545.1,,GCA_903992545.1,"CLR I, FALCON unzip",F
+m40,Mammals,Mammals,Pipistrellus pygmaeus,soprano pipistrelle,mPipPyg2.1,mPipPyg2.pri,GCA_949987585.1,,GCA_949987585.1,"HiFi, Hifiasm solo",M
+m40,Mammals,Mammals,Pipistrellus nathusii,Nathusius's pipistrelle,mPipNat1,mPipNat1.hap1,GCA_964656225.1,,GCA_964656225.1,"HiFi, HiFiasm Hi-C phasing",F
+m40,Mammals,Mammals,Pipistrellus hanaki,Hanaki's dwarf bat,mPipHan1,mPipHan1.pri,GCA_964339955.1,,GCA_964339955.1,"HiFi, Hifiasm solo",M
+m40,Mammals,Mammals,Eptesicus nilssonii,northern bat,mEptNil1.1,mEptNil1.1.pri,GCA_951640355.1,,GCA_951640355.1,"HiFi, Hifiasm solo",M
+m40,Mammals,Mammals,Eptesicus fuscus,big brown bat,mEptFus1,mEptFus1.pri,GCA_027574615.1,GCF_027574615.1,GCF_027574615.1,"CLR, DAmar assembler",M
+m40,Mammals,Mammals,Plecotus auritus,brown big-eared bat,mPleAur1,mPleAur1.pri,GCA_963455305.1,,GCA_963455305.1,"HiFi, Hifiasm solo",F
+m40,Mammals,Mammals,Rhynchonycteris naso,proboscis bat,mRhyNas2,mRhyNas2.hap1,GCA_037038545.1,,GCA_037038545.1,"HiFi, HiFiams + Hi-C Phasing",M
+m40,Mammals,Mammals,Antrozous pallidus,pallid bat,mAntPal1,mAntPal1.pri,GCA_027563665.1,,GCA_027563665.1,"CLR, DAmar assembler",M
+m40,Mammals,Mammals,Corynorhinus townsendii,Townsend's big-eared bat,mCorTow1,mCorTow1.hap1,GCA_026230055.1,,GCA_026230045.1,"HiFi, HiFiasm Hi-C phasing",M
+m40,Mammals,Mammals,Vespertilio murinus,particolored bat,mVesMur1,mVesMur1.pri,GCA_963924515.1,,GCA_963924515.1,"HiFi, Hifiasm solo",M
+m40,Mammals,Mammals,Nyctalus leisleri,lesser noctule,mNycLei1,mNycLei1.hap1,GCA_964264875.2,,GCA_964264875.2,"HiFi, HiFiasm Hi-C phasing",M
+m40,Mammals,Mammals,Miniopterus schreibersii,Schreibers' long-fingered bat,mMinSch1,mMinSch1.hap1,GCA_964146895.2,,GCA_964146895.2,"HiFi, HiFiasm Hi-C phasing",M
+m40,Mammals,Mammals,Saccopteryx leptura,lesser sac-winged bat,mSacLep1,mSacLep1.pri,GCA_036850995.1,GCF_036850995.1,GCF_036850995.1,"CLR I, FALCON unzip",M
+m40,Mammals,Mammals,Saccopteryx bilineata,greater sac-winged bat,mSacBil1,mSacBil1.pri,GCA_036850765.1,GCF_036850765.1,GCF_036850765.1,"CLR I, FALCON unzip",M
+m41,Mammals,Mammals,Rhinolophus ferrumequinum,greater horseshoe bat,mRhiFer1,mRhiFer1.pri,GCA_004115265.3,GCF_004115265.2,GCF_004115265.2,"CLR I, FALCON unzip",F
+m41,Mammals,Mammals,Rhinolophus hipposideros,lesser horseshoe bat,mRhiHip2,mRhiHip2.hap1,GCA_964194185.1,,GCA_964194185.1,"HiFi, HiFiasm Hi-C phasing",F
+m41,Mammals,Mammals,Rhinolophus trifoliatus,trefoil horseshoe bat,mRhiTri1,mRhiTri1.pri,GCA_043728145.1,,GCA_043728145.1,"HiFi, Hifiasm solo",M
+m41,Mammals,Mammals,Rhinolophus yonghoiseni,Yong hoi sen's woolly horseshoe bat,mRhiYon1,mRhiYon1.pri,GCA_043880425.1,,GCA_043880425.1,"HiFi, Hifiasm solo",M
+m41,Mammals,Mammals,Rhinolophus affinis,intermediate horseshoe bat,mRhiAff1,mRhiAff1.pri,GCA_043728065.1,,GCA_043728065.1,"HiFi, Hifiasm solo",M
+m41,Mammals,Mammals,Rhinolophus perniger lanosus,Northern woolly horseshoe bat,mRhiPer1,mRhiPer1.pri,GCA_043748575.1,,GCA_043748575.1,"HiFi, Hifiasm solo",M
+m41,Mammals,Mammals,Rousettus aegyptiacus,Egyptian fruit bat,mRouAeg1,mRouAeg1.pri,GCA_014176215.1,GCF_014176215.1,GCF_014176215.1,"CLR I, DAmar",M
+m41,Mammals,Mammals,Hipposideros larvatus,intermediate roundleaf bat,mHipLar1,mHipLar1.pri,GCA_031876335.1,,GCA_031876335.1,"HiFi, Hifiasm solo",F
+m40,Mammals,Mammals,Doryrhina cyclops,Cyclops roundleaf bat,mDorCyc1,mDorCyc1.pri,GCA_043880285.1,,GCA_043880285.1,"HiFi, Hifiasm solo",F
+m40,Mammals,Mammals,Aselliscus stoliczkanus,Stoliczka's trident bat,mAseSto1,mAseSto1.pri,GCA_043727835.1,,GCA_043727835.1,"HiFi, Hifiasm solo",M
+m41,Mammals,Mammals,Rhinopoma microphyllum,Greater mouse-tailed bat,mRhiMic1,mRhiMic1.pri,GCA_043880545.1,,GCA_043880545.1,"HiFi, Hifiasm solo",M
+m41,Mammals,Mammals,Rhinopoma cystops,Egyptian mouse-tailed bat,mRhiCys1,,,,,,
+m41,Mammals,Mammals,Megaderma spasma,Lesser false vampire bat,mMegSpa1,mMegSpa1.pri,GCA_043880595.1,,GCA_043880595.1,"HiFi, Hifiasm solo",M
+m42,Mammals,Mammals,Lutra lutra,Eurasian otter,mLutLut1,mLutLut1.pri,GCA_902655055.2,GCF_902655055.1,GCF_902655055.1,"CLR I, FALCON unzip",M
+m42,Mammals,Mammals,Mustela erminea,stout,mMusErm1,mMusErm1.pri,GCA_009829155.1,GCF_009829155.1,GCF_009829155.1,"CLR I, FALCON unzip",M
+m42,Mammals,Mammals,Mustela lutreola,European mink,mMusLut2,mMusLut2.pri,GCA_030435805.1,GCF_030435805.1,GCF_030435805.1,"HiFi, Hifiasm solo",M
+m42,Mammals,Mammals,Mustela nivalis vulgaris,least weasel ,mMusNiv2,mMusNiv2.hap1,GCA_964662115.1,,GCA_964662115.1,"HiFi, HiFiasm Hi-C phasing",M
+m42,Mammals,Mammals,Neogale vison,American mink,mNeoVis2,mNeoVis2.hap1,GCA_964106545.1,,GCA_964106545.1,"HiFi, HiFiasm Hi-C phasing",F
+m42,Mammals,Mammals,Martes martes,European pine marten,mMarMar1,mMarMar1.pri,GCA_963455335.1,,GCA_963455335.1,"HiFi, Hifiasm solo",M
+m42,Mammals,Mammals,Meles meles,European badger,mMelMel1,mMelMel3.2.pat,GCA_922984935.2,GCF_922984935.1,GCF_922984935.1,"HiFi, Hifiasm Trio",M
+m42,Mammals,Mammals,Canis lupus orion,Greenland wolf,mCanLor1,mCanLor1.pri,GCA_905319855.2,,GCA_905319855.2,"HiFi, Hifiasm solo",M
+m42,Mammals,Mammals,Canis lupus familiaris,German shepherd dog,mCanFam4,mCanFam4.pri,GCA_011100685.1,GCF_011100685.1,GCF_011100685.1,"CLR I, FALCON unzip",F
+m42,Mammals,Mammals,Canis lupus baileyi,Mexican gray wolf,mCanLup2,mCanLup2.hap1,GCA_048164855.1,GCF_048164855.1,GCF_048164855.1,"HiFi, HiFiasm Hi-C phasing",M
+m42,Mammals,Mammals,Speothos venaticus,bush dog,mSpeVen1,,,,,,
+m42,Mammals,Mammals,Vulpes vulpes,red fox,mVulVul1,mVulVul1.hap1,GCA_964106825.2,,GCA_964106825.2,"HiFi, HiFiasm Hi-C phasing",F
+m42,Mammals,Mammals,Lycaon pictus,African hunting dog,mLycPic1,mLycPic1.mat,GCA_040955705.1,,GCA_040955705.1,"HiFi, Hifiasm Trio",M
+m42,Mammals,Mammals,Zalophus californianus,California sea lion,mZalCal1,mZalCal1.2.pri,GCA_009762305.2,GCF_009762305.2,GCF_009762305.2,"CLR I, FALCON unzip",M
+m42,Mammals,Mammals,Halichoerus grypus,grey seal,mHalGry1,mHalGry1.hap1,GCA_964656455.1,,GCA_964656455.1,"HiFi, HiFiasm Hi-C phasing",F
+m43,Mammals,Mammals,Lynx canadensis,Canada lynx,mLynCan1,mLynCan1.pri,GCA_007474595.2,GCF_007474595.2,GCF_007474595.2,"CLR I, FALCON unzip",M
+m43,Mammals,Mammals,Neofelis nebulosa,clouded leopard,mNeoNeb1,mNeoNeb1.pri,GCA_028018385.1,GCF_028018385.1,GCF_028018385.1,"HiFi, Hifiasm solo",M
+m43,Mammals,Mammals,Panthera onca,jaguar,mPanOnc1,mPanOnc1.hap1,GCA_046562885.1,,GCA_046562885.1,"HiFi, HiFiasm Hi-C phasing",M
+m44,Mammals,Mammals,Manis pentadactyla,Chinese pangolin,mManPen7,mManPen7.hap1,GCA_030020395.1,GCF_030020395.1,GCF_030020395.1,"HiFi, Hifiasm Hi-C phasing",M
+m45,Mammals,Mammals,Suncus etruscus,Etruscan shrew,mSunEtr1,mSunEtr1.pri,GCA_024139225.1,GCF_024139225.1,GCF_024139225.1,"CLR II, FALCON unzip",M
+m45,Mammals,Mammals,Sorex araneus,European shrew,mSorAra2,mSorAra2.pri,GCA_027595985.1,GCF_027595985.1,GCF_027595985.1,"HiFi, Hifiasm solo",F
+m46,Mammals,Mammals,Talpa europaea,European mole,mTalEur1,mTalEur1.hap1,GCA_964194135.1,,GCA_964194135.1,"HiFi, Hifiasm Hi-C phasing",F
+m47,Mammals,Mammals,Erinaceus europaeus,European hedgehog,mEriEur2.1,mEriEur2.pri,GCA_950295315.1,GCF_950295315.1,GCF_950295315.1,"HiFi, Hifiasm solo",F
+m48,Mammals,Mammals,Solenodon paradoxus,Hispaniolan solenodon,,,,,,,
+m49,Mammals,Mammals,Trichosurus vulpecula,common brushtail possum,mTriVul1,mTriVul1.pri,GCA_011100635.1,GCF_011100635.1,GCF_011100635.1,"CLR I, FALCON unzip",F
+m50,Mammals,Mammals,Macropus eugenii,Tammar wallaby,mMacEug1,mMacEug1.pri,GCA_028372415.2,GCF_028372415.1,GCF_028372415.1,"HiFi, Hifiasm solo",M
+m51,Mammals,Mammals,Phascolarctos cinereus,koala,phaCin_HiC,mPhaCin1.pri,GCA_003287225.2,,GCA_003287225.2,"CLR I, FALCON, HiRise Hi-C scaffolding",F
+m52,Mammals,Mammals,Macrotis lagotis,greater bilby,mMacLag1,mMacLag1.pri,GCA_037893015.1,,GCA_037893015.1,"CLR I, IPA",F
+m53,Mammals,Mammals,Sminthopsis crassicaudata,fat-tailed dunnart,mSmiCra1,mSmiCra1.hap1,GCA_048593235.1,,GCA_048593235.1,"HiFi, ONT, Hifiasm",F
+m53,Mammals,Mammals,Sarcophilus harrisii,Tasmanian devil,mSarHar1,mSarHar1.hap1,GCA_048593225.1,,GCA_048593225.1,"HiFi, ONT, Hifiasm",M
+m53,Mammals,Mammals,Dasyurus maculatus,tiger quoll,mDasMac1,mDasMac1.hap1,GCA_048593285.1,,GCA_048593285.1,"HiFi, ONT, Hifiasm",M
+m54,Mammals,Mammals,Notoryctes typhlops,Southern marsupial mole,mNotTyp1,mNotTyp1.hap1,GCA_048126345.1,,GCA_048126345.1,"HIFi, ONT, Flye v. 2.9; Juicer v. 1.6",F
+m55,Mammals,Mammals,Dromiciops gliroides,monito del montes,mDroGli1,mDroGli1.pri,GCA_019393635.1,GCF_019393635.1,GCF_019393635.1,"CLR II, FALCON unzip",F
+m56,Mammals,Mammals,Monodelphis domestica,gray short-tailed opossum,mMonDom1,mMonDom1.pri,GCA_027887165.1,GCF_027887165.1,GCF_027887165.1,"HiFi, Hifiasm solo",M
+m57,Mammals,Mammals,Lestoros inca,Incan caenolestid,,,,,,,
+m58,Mammals,Mammals,Ornithorhynchus anatinus,platypus,mOrnAna1,mOrnAna1.4.pri,GCA_004115215.4,GCF_004115215.2,GCF_004115215.2,"CLR II, FALCON unzip",M
+m58,Mammals,Mammals,Tachyglossus aculeatus,short-beaked echidna,mTacAcu1,mTacAcu1.pri,GCA_015852505.1,GCF_015852505.1,GCF_015852505.1,"CLR I, FALCON unzip",M
+b1,Birds,Birds,Taeniopygia guttata,zebra finch,bTaeGut7,bTaeGut7.mat,GCA_048771995.1,GCF_048771995.1,GCF_048771995.1,"CLR I, FALCON unzip",M
+b1,Birds,Birds,Lonchura striata domestica,Bengalese finch,bLonStr1,bLonStr1.mat,GCA_046129695.1,,GCA_046129695.1,"HiFi, Hifiasm trio phasing",M
+b1,Birds,Birds,Vidua chalybeata,village indigobird,bVidCha1,bVidCha1.merged,GCA_026979565.1,GCF_026979565.1,GCF_026979565.1,"HiFi, Canu, purge_dups",F
+b1,Birds,Birds,Haemorhous mexicanus,house finch,bHaeMex1,bHaeMex1.pri,GCA_027477595.1,GCF_027477595.1,GCF_027477595.1,"HiFi, HiFiasm solo",F
+b1,Birds,Birds,Fringilla coelebs,common chaffinch,bFriCoe1,bFriCoe1.pri,GCA_963513975.1,,GCA_963513975.1,"HiFi, HiFiasm solo",M
+b1,Birds,Birds,Serinus canaria,canary,bSerCaa1,,,,,,
+b1,Birds,Birds,Spinus tristis,American goldfinch,bSpiTri1,,,,,,
+b1,Birds,Birds,Melospiza georgiana,swamp sparrow,bMelGeo1,bMelGeo1.pri,GCA_028018845.1,GCF_028018845.1,GCF_028018845.1,"HiFi, HiFiasm solo",F
+b1,Birds,Birds,Melospiza melodia,song sparrow,bMelMel2,bMelMel2.pri,GCA_035770615.1,GCF_035770615.1,GCF_035770615.1,"HiFi, Hifiasm Hi-C phasing",F
+b1,Birds,Birds,Ammodramus caudacutus,saltmarsh sparrow,bAmmCau1,bAmmCau1.pri,GCA_027887145.1,GCF_027887145.1,GCF_027887145.1,"HiFi, HiFiasm solo",M
+b1,Birds,Birds,Ammospiza nelsoni,Nelson's sparrow,bAmmNel1,bAmmNel1.pri,GCA_027579445.1,GCF_027579445.1,GCF_027579445.1,"HiFi, HiFiasm solo",F
+b1,Birds,Birds,Ammospiza maritima,seaside sparrow,bAmmMai1,bAmmMai1.pri,GCA_036010785.1,,GCA_036010785.1,"HiFi, HiFiasm solo",M
+b1,Birds,Birds,Passerculus sandwichensis,Savannah sparrow,bPasSan2,bPasSan2.pri,GCA_031885435.1,,GCA_031885435.1,"HiFi, HiFiasm solo",F
+b1,Birds,Birds,Spizella passerina,chipping sparrow,bSpiPas1,,,,,,
+b1,Birds,Birds,Zonotrichia albicollis,white-throated sparrow,bZonAlb1,bZonAlb1.hap1,GCA_047830755.1,,GCA_047830755.1,"HiFi, Hifiasm Hi-C phasing",F
+b1,Birds,Birds,Passer domesticus,house sparrow,bPasDom1,bPasDom1.hap1,GCA_036417665.1,GCF_036417665.1,GCF_036417665.1,"HiFi, Hifiasm Hi-C phasing",F
+b1,Birds,Birds,Sylvia borin,garden warbler,bSylBor1,bSylBor1.pri,GCA_014839755.1,,GCA_014839755.1,"CLR I, FALCON unzip",M
+b1,Birds,Birds,Sylvia atricapilla,European blackcap,bSylAtr1,bSylAtr1.pri,GCA_009819655.1,GCF_009819655.1,GCF_009819655.1,"CLR I, FALCON unzip",F
+b1,Birds,Birds,Hirundo rustica,barn swallow,bHirRus1,bHirRus1.3.pri,GCA_015227805.3,GCF_015227805.1,GCF_015227805.1,"CLR I, FALCON unzip",F
+b1,Birds,Birds,Zosterops lateralis,silver-eye,bZosLat1,bZosLat1.hap1,GCA_965231275.1,,GCA_965231275.1,"HiFi, Hifiasm Hi-C phasing",F
+b1,Birds,Birds,Geothlypis trichas,common yellowthroat,bGeoTri1,bGeoTri1.pri,GCA_009764595.1,,GCA_009764595.1,"CLR I, FALCON unzip",F
+b1,Birds,Birds,Turdus migratorius,American robin,bTurMig1,,,,,,
+b1,Birds,Birds,Erithacus rubecula,European robin,bEriRub2,bEriRub2.2.pri,GCA_903797595.2,,GCA_903797595.2,"CLR II, FALCON unzip",F
+b1,Birds,Birds,Catharus ustulatus,Swainson's thrush,bCatUst1,bCatUst1.2.pri,GCA_009819885.2,GCF_009819885.2,GCF_009819885.2,"CLR I, FALCON unzip",F
+b1,Birds,Birds,Poecile atricapillus,black-capped chickadee,bPoeAtr1,bPoeAtr1.hap1,GCA_030490865.1,GCF_030490865.1,GCF_030490865.1,"HiFi, Hifiasm Hi-C phasing",F
+b1,Birds,Birds,Oenanthe melanoleuca,eastern black-eared wheatear,bOenMel1,bOenMel1.pri,GCA_029582105.1,GCF_029582105.1,GCF_029582105.1,"CLR, FALCON unzip, HiC",M
+b1,Birds,Birds,Copsychus sechellarum,Seychelles magpie-robin,bCopSec1,,,,,,
+b1,Birds,Birds,Dumetella carolinensis,grey catbird,bDumCar1,,,,,,
+b1,Birds,Birds,Cinclus cinclus,white-throated dipper,bCinCin1,bCinCin1.pri,GCA_963662255.1,GCF_963662255.1,GCF_963662255.1,"HiFi, Hifiasm solo",M
+b1,Birds,Birds,Troglodytes aedon,house wren,bTroAed2,,,,,,
+b1,Birds,Birds,Sitta carolinensis,white-breasted nuthatch,bSitCar2,,,,,,
+b1,Birds,Birds,Agelaius phoeniceus,red-winged blackbird,bAgePho2,bAgePho2.pri,GCA_020745825.3,GCF_020745825.1,GCF_020745825.1,"HiFi, Hifiasm solo",F
+b1,Birds,Birds,Baeolophus bicolor,tufted titmouse,bBaeBic1,,,,,,
+b1,Birds,Birds,Molothrus ater,brown-headed cowbird,bMolAte2,,,,,,
+b1,Birds,Birds,Sturnus vulgaris,European starling,bStuVul1,,,,,,
+b1,Birds,Birds,Acridotheres tristis,common myna,bArcTri1,bArcTri1.pri,GCA_027559615.1,,GCA_027559615.1,"HiFi, Hifiasm solo",F
+b1,Birds,Birds,Lycocorax pyrrhopterus,paradise crow,bLycPyr6,bLycPyr6.pri,GCA_014706295.1,,GCA_014706295.1,"CLR, FALCON, ILLUMINA, HiC, CHiCAGO",F
+b1,Birds,Birds,Corvus hawaiiensis,Hawaiian crow,bCorHaw1,bCorHaw1.pri,GCA_020740725.1,GCF_020740725.1,GCF_020740725.1,"HiFi, Hifiasm solo",F
+b1,Birds,Birds,Corvus moneduloides,New Caledonian crow,bCorMon1,bCorMon1.pri,GCA_009650955.1,GCF_009650955.1,GCF_009650955.1,"CLR I, FALCON unzip",F
+b1,Birds,Birds,Cyanocitta cristata,blue jay,bCyaCrs1,bCyaCrs1.hap1,GCA_046129655.1,,GCA_046129655.1,"HiFi, Hifiasm Hi-C phasing",F
+b1,Birds,Birds,Coloeus monedula,Western jackdaw,bColMon1,bColMon1.hap1,GCA_965178545.1,,GCA_965178545.1,"HiFi, Hifiasm Hi-C phasing",F
+b2,Birds,Birds,Chiroxiphia lanceolata,lanced-tailed manakin,bChiLan1,bChiLan1.pri,GCA_009829145.1,GCF_009829145.1,GCF_009829145.1,"CLR I, FALCON unzip",F
+b2,Birds,Birds,Dixiphia pipra,white-crowned manakin,bDixPip1,bDixPip1.hap1,GCA_036250125.1,GCF_036250125.1,GCF_036250125.1,"HiFi, Hifiasm Hi-C phasing",F
+b2,Birds,Birds,Willisornis vidua,Xingu scale-backed antbird,bWilVid1,bWilVid1.hap1,GCA_045364795.1,,GCA_045364795.1,"HiFi, Hifiasm Hi-C phasing",F
+b2,Birds,Birds,Hypocnemis striata,Spix's warbling antbird,bHypStr1,,,,,,
+b3,Birds,Birds,Acanthisitta chloris,rifleman,bAcaChl1,bAcaChl1.pri,GCA_016904835.1,,GCA_016904835.1,"CLR, FALCON unzip",F
+b4,Birds,Birds,Strigops habroptilus,kakapo,bStrHab1,bStrHab1.pri,GCA_004027225.2,GCF_004027225.2,GCF_004027225.2,"RSII, FALCON unzip",F
+b4,Birds,Birds,Melopsittacus undulatus,budgerigar,bMelUnd1,bMelUnd1.mat,GCA_012275295.1,GCF_012275295.1,GCF_012275295.1,"CLR I, TrioCanu",F
+b4,Birds,Birds,Ara ararauna,blue-and-gold macaw,bAraAra1,bAraAra1.hap1,GCA_028858755.1,,GCA_028858755.1,"HiFi, Hifiasm Hi-C phasing",M
+b4,Birds,Birds,Anodorhynchus hyacinthinus,hyacinth macaw,bAnoHya1,,,,,,
+b4,Birds,Birds,Amazona ochrocephala,yellow-crowned amazon,bAmaOch1,bAmaOch1.hap1,GCA_039720435.1,,GCA_039720435.1,"HiFi, Hifiasm Hi-C phasing",F
+b4,Birds,Birds,Lathamus discolor,swift parrot,bLatDis1,bLatDis1.hap1,GCA_037157495.1,GCF_037157495.1,GCF_037157495.1,"HiFi, Hifiasm Hi-C phasing",F
+b4,Birds,Birds,Guaruba guaruba,golden parakeet,bGuaGua1,bGuaGua1.hap1,GCA_045345405.1,,GCA_045345405.1,"HiFi, Hifiasm Hi-C phasing",F
+b4,Birds,Birds,Psittacula echo,Mauritius parakeet,bPsiEch3,bPsiEch3.pri,GCA_963264785.1,,GCA_963264785.1,"HiFi, Hifiasm solo",M
+b5,Birds,Birds,Falco peregrinus,peregrine falcon,bFalPer1,bFalPer1.pri,GCA_023634155.1,GCF_023634155.1,GCF_023634155.1,"HiFi, Hifiasm solo",F
+b5,Birds,Birds,Falco rusticolus,gyrfalcon,bFalRus1,bFalRus1.pri,GCA_015220075.1,GCF_015220075.1,GCF_015220075.1,"CLR I, FALCON unzip",F
+b5,Birds,Birds,Falco biarmicus,Lanner falcon,bFalBia1,bFalBia1.pri,GCA_023638135.1,GCF_023638135.1,GCF_023638135.1,"HiFi, Hifiasm solo",F
+b5,Birds,Birds,Falco cherrug,saker falcon,bFalChe1,bFalChe1.pri,GCA_023634085.1,GCF_023634085.1,GCF_023634085.1,"HiFi, Hifiasm solo",F
+b5,Birds,Birds,Falco naumanni,lesser kestrel,bFalNau1,bFalNau1.pat,GCA_017639655.1,GCF_017639655.2,GCF_017639655.2,"CLR I, TrioCanu",F
+b5,Birds,Birds,Falco punctatus,Mauritius kestrel,bFalPun1,bFalPun1.pri,GCA_963210335.1,,GCA_963210335.1,"HiFi, Hifiasm solo",F
+b6,Birds,Birds,Cariama cristata,red-legged seriema,bCarCri1,bCarCri1.pri,GCA_009819825.1,,GCA_009819825.1,"CLR I, FALCON unzip",F
+b7,Birds,Birds,Dryobates pubescens,downy woodpecker,bDryPub1,bDryPub1.pri,GCA_014839835.1,GCF_014839835.1,GCF_014839835.1,"CLR I, FALCON unzip",F
+b7,Birds,Birds,Pogoniulus pusillus,red-fronted tinkerbird,bPogPus1,bPogPus1.pri,GCA_015220805.1,GCF_015220805.1,GCF_015220805.1,"CLR I, FALCON unzip",F
+b8,Birds,Birds,Merops nubicus,carmine bee-eater,bMerNub1,bMerNub1.pri,GCA_009819595.1,,GCA_009819595.1,"CLR I, FALCON unzip",F
+b9,Birds,Birds,Bucorvus abyssinicus,Abyssinian ground hornbill,bBucAby1,bBucAby1.pri,GCA_009769605.1,,GCA_009769605.1,"CLR I, FALCON unzip",F
+b10,Birds,Birds,Trogon surrucura,surucua trogon,bTroSur1,bTroSur1.pri,GCA_020746105.1,,GCA_020746105.1,"CLR II, FALCON unzip",F
+b11,Birds,Birds,Leptosomus discolor,cuckoo-roller,bLepDis1,bLepDis1.hap2,GCA_034619465.1,,GCA_034619465.1,"HiFi, Hifiasm Hi-C phasing",M
+b12,Birds,Birds,Colius striatus,speckled mousebird,bColStr4,bColStr4.hap1,GCA_028858725.2,GCF_028858725.1,GCF_028858725.1,"HiFi, Hifiasm Hi-C phasing",F
+b13,Birds,Birds,Strix aluco,tawny owl,bStrAlu1,bStrAlu1.hap1,GCA_031877795.1,,GCA_031877795.1,"HiFi, Hifiasm Hi-C phasing",F
+b13,Birds,Birds,Pulsatrix perspicillata,spectacled owl,bPulPer1,bPulPer1.hap1,,,,,
+b14,Birds,Birds,Athene noctua,little owl,bAthNoc1,bAthNoc1.hap1,GCA_965140245.1,,GCA_965140245.1,"HiFi, Hifiasm Hi-C phasing",M
+b14,Birds,Birds,Aquila chrysaetos,European golden eagle,bAquChr1,bAquChr1.4.pri,GCA_900496995.4,GCF_900496995.4,GCF_900496995.4,"CLR, FALCON unzip",F
+b14,Birds,Birds,Haliaeetus albicilla,white-tailed eagle,bHalAlb1,bHalAlb1.pri,GCA_947461875.1,GCF_947461875.1,GCF_947461875.1,"HiFiasm solo, Hi-C, purge dups",F
+b14,Birds,Birds,Harpia harpyja,harpy eagle,bHarHar1,bHarHar1.pri,GCA_026419915.1,GCF_026419915.1,GCF_026419915.1,"HiFi, Hifiasm solo",F
+b14,Birds,Birds,Morphnus guianensis,crested eagle,bMorGui1,bMorGui1.hap2,GCA_045345515.1,,GCA_045345515.1,"HiFi, Hifiasm Hi-C phasing",F
+b14,Birds,Birds,Accipiter gentilis,Northern goshawk,bAccGen1,bAccGen1.pri,GCA_929443795.1,GCF_929443795.1,GCF_929443795.1,"HiFi, Hifiasm solo",F
+b14,Birds,Birds,Gypaetus barbatus,bearded vulture,bGypBar2,bGypBar2.pri,GCA_028022735.1,,GCA_028022735.1,"HiFi, Hifiasm solo",F
+b14,Birds,Birds,Buteo buteo,common buzzard,bButBut1,bButBut1.hap1,GCA_964188355.1,,GCA_964188355.1,"HiFi, Hifiasm Hi-C phasing",F
+b15,Birds,Birds,Sarcoramphus papa,king vulture,bSarPap1,bSarPap1.hap1,GCA_037962945.1,,GCA_037962945.1,"HiFi, Hifiasm Hi-C phasing",F
+b16,Birds,Birds,Pelecanus crispus,dalmatian pelican,bPelCri1,bPelCri1.pri,GCA_030463565.1,,GCA_030463565.1,"HiFi, Hifiasm solo",F
+b17,Birds,Birds,Ardea goliath,goliath heron,,,,,,,
+b18,Birds,Birds,Theristicus caerulescens,plumbeous ibis,bTheCae1,bTheCae1.pri,GCA_020745775.1,,GCA_020745775.1,"CLR II, FALCON unzip",M
+b18,Birds,Birds,Platalea leucorodia,Eurasian spoonbill,bPlaLeu2,bPlaLeu2.hap1,GCA_965183815.1,,GCA_965183815.1,"HiFi, Hifiasm Hi-C phasing",F
+b19,Birds,Birds,Gulosus aristotelis,European shag,bGulAri2.1,bGulAri2.pri,GCA_949628215.1,,GCA_949628215.1,"HiFi, Hifiasm solo",F
+b19,Birds,Birds,Microcarbo africanus,reed cormorant,,,,,,,
+b19,Birds,Birds,Phalacrocorax carbo,great cormorant,bPhaCar2,bPhaCar2.pri,GCA_963921805.1,GCF_963921805.1,GCF_963921805.1,"HiFi, Hifiasm solo",F
+b20,Birds,Birds,Morus bassanus,Northern gannet,bMorBas2,bMorBas2.hap2,GCA_031468815.1,,GCA_031468815.1,"HiFi, Hifiasm Hi-C phasing",M
+b21,Birds,Birds,Ciconia maguari,Maguari stork,bCicMag1,bCicMag1.pri,GCA_017639555.1,,GCA_017639555.1,"CLR II, FALCON unzip",F
+b22,Birds,Birds,Calonectris borealis,Cory's shearwater,bCalBor7,bCalBor7.hap1,GCA_964195595.2,,GCA_964195595.2,"HiFi, Hifiasm Hi-C phasing",F
+b23,Birds,Birds,Spheniscus humboldti,Humboldt penguin,bSphHub1,bSphHub1.pri,GCA_027474245.1,,GCA_027474245.1,"HiFi, Hifiasm solo",F
+b24,Birds,Birds,Gavia stellata,red-throated Loon,bGavSte3,bGavSte3.hap2,GCA_030936135.1,GCF_030936135.1,GCF_030936135.1,"HiFi, Hifiasm Hi-C phasing",M
+b25,Birds,Birds,Phaethon aethereus,red-billed tropicbird,bPhaAeh10,bPhaAeh10.mat,GCA_964289735.1,,GCA_964289735.1,"HiFI, HiFiasm trio phasing",F
+b26,Birds,Birds,Rhynochetos jubatus,Kagu,bRhyJub1,bRhyJub1.pri,GCA_027574665.1,,GCA_027574665.1,"HiFi, Hifiasm solo",F
+b27,Birds,Birds,Pluvialis apricaria,European golden plover,bPluApr1,bPluApr1.pri,GCA_017639485.1,,GCA_017639485.1,"CLR II, FALCON unzip",F
+b27,Birds,Birds,Vanellus vanellus,Northern Lapwing,bVanVan1,bVanVan1.hap1,GCA_965231255.1,,GCA_965231255.1,"HiFi, Hifiasm Hi-C phasing",M
+b27,Birds,Birds,Alca Torda,razorbill,bAlcTor1,bAlcTor1.pri,GCA_008658365.1,,GCA_008658365.1,"CLR, FALCON unzip",M
+b27,Birds,Birds,Numenius arquata,Eurasian curlew,bNumArq3,bNumArq3.hap1,GCA_964106895.1,,GCA_964106895.1,"HiFi, Hifiasm Hi-C phasing",F
+b27,Birds,Birds,Sterna hirundo,common tern,bSteHir1,bSteHir1.pri,GCA_009819605.1,,GCA_009819605.1,"CLR I, FALCON unzip",F
+b27,Birds,Birds,Rissa tridactyla,black-legged kittiwake,bRisTri1,bRisTri1.pat,GCA_028500815.1,GCF_028500815.1,GCF_028500815.1,"HiFi, Hifiasm trio",F
+b27,Birds,Birds,Chroicocephalus ridibundus,black-headed gull,bChrRid1,bChrRid1.pri,GCA_963924245.1,GCF_963924245.1,GCF_963924245.1,"HiFi, Hifiasm trio",M
+b27,Birds,Birds,Larus fuscus,lesser black-backed gull,bLarFus1,bLarFus1.pri,GCA_963932225.1,,GCA_963932225.1,"HiFi, Hifiasm solo",F
+b27,Birds,Birds,Larus michahellis,yellow-legged gull,blarMic1,blarMic1.pri,GCA_964199755.1,,GCA_964199755.1,"HiFi, Hifiasm solo",F
+b27,Birds,Birds,Larus argentatus,herring gull,bLarArg3,bLarArg3.hap1,GCA_964417175.1,,GCA_964417175.1,"HiFi, Hifiasm Hi-C phasing",F
+b28,Birds,Birds,Balearica regulorum gibbericeps,grey crowned-crane,bBalReg1,bBalReg1.pri,GCA_011004875.1,,GCA_011004875.1,"CLR I, FALCON unzip",F
+b28,Birds,Birds,Grus americana,whooping crane,bGruAme1,bGruAme1.mat,GCA_028858705.1,GCF_028858705.1,GCF_028858705.1,"CLR II, Trio Canu",M
+b28,Birds,Birds,Grus grus,Eurasian crane,bGruGru1,bGruGru1.pri,GCA_964106855.1,,GCA_964106855.1,"HiFi, Hifiasm trio",M
+b28,Birds,Birds,Porphyrio hochstetteri,takahe,bPorHoc1,bPorHoc1.mat,GCA_020800305.1,,GCA_020800305.1,"HiFi, Trio hifiasm",F
+b28,Birds,Birds,Gallinula chloropus,common moorhen,bGalChl1,bGalChl1.hap1,GCA_964237585.1,,GCA_964237585.1,"HiFi, Hifiasm Hi-C phasing",M
+b29,Birds,Birds,Opisthocomus hoazin,hoatzin,bOpiHoa1,bOpiHoa1.hap1,GCA_030867145.1,,GCA_030867145.1,"HiFi, Hifiasm Hi-C phasing",F
+b30,Birds,Birds,Calypte anna,Anna's hummingbird,bCalAnn1,bCalAnn1.pri,GCA_003957555.2,GCF_003957555.1,GCF_003957555.1,"CLR I, FALCON unzip",F
+b30,Birds,Birds,Phaethornis superciliosus,long-tailed hermit,bPhaSup1,bPhaSup1.pri,GCA_023637945.2,,GCA_023637945.2,"CLR I, FALCON unzip",M
+b30,Birds,Birds,Heliangelus exortis,tourmaline sunangel,bHelExo1,bHelExo1.hap1,GCA_036169615.1,GCF_036169615.1,GCF_036169615.1,"HiFi, Hifiasm Hi-C phasing",F
+b31,Birds,Birds,Apus apus,common swift,bApuApu2,bApuApu2.pri,GCA_020740795.1,GCF_020740795.1,GCF_020740795.1,"CLR, FALCON unzip",F
+b32,Birds,Birds,Hemiprocne comata,whiskered treeswift,bHemCom1,bHemCom1.pri,GCA_020745705.1,,GCA_020745705.1,"CLR I, FALCON unzip",F
+b33,Birds,Birds,Caprimulgus europaeus,Eurasian nightjar,bCapEur3,bCapEur3.pri,GCA_907165065.1,,GCA_907165065.1,"CLR II, FALCON unzip",F
+b34,Birds,Birds,Aegotheles albertisi,mountain owlet-nightjar,bAegAlb1,bAegAlb1.hap1,GCA_039906565.1,,GCA_039906565.1,"HiFi, Hifiasm Hi-C phasing",F
+b35,Birds,Birds,Podargus strigoides,tawny frogmouth,bPodStr1,bPodStr1.pri,GCA_028020825.1,,GCA_028020825.1,"HiFi, Hifiasm solo",F
+b36,Birds,Birds,Steatornis caripensis,oilbird,,,,,,,
+b37,Birds,Birds,Nyctibius grandis,great potoo,bNycGra1,bNycGra1.pri,GCA_013368605.1,GCF_013368605.1,GCF_013368605.1,"CLR I, FALCON unzip",F
+b38,Birds,Birds,Chlamydotis macqueenii,MacQueen's bustard,bChlMac1,bChlMac1.mat,GCA_036417535.1,,GCA_036417535.1,"HiFi, Hifiasm trio",F
+b39,Birds,Birds,Tauraco erythrolophus,red-crested turaco,bTauEry1,bTauEry1.pri,GCA_009769465.1,,GCA_009769465.1,"CLR I, FALCON unzip",F
+b40,Birds,Birds,Cuculus canorus,common cuckoo,bCucCan1,bCucCan1.pri,GCA_017976375.1,GCF_017976375.1,GCF_017976375.1,"CLR II, FALCON unzip",F
+b41,Birds,Birds,Monias benschi,subdesert mesite,,,,,,,
+b42,Birds,Birds,Pterocles gutturalis,yellow-throated sandgrouse,bPteGut1,bPteGut1.pri,GCA_009769525.1,,GCA_009769525.1,"CLR I, FALCON unzip",M
+b43,Birds,Birds,Streptopelia turtur,European turtle dove,bStrTur1,bStrTur12.pri,GCA_901699155.2,,GCA_901699155.2,"CLR II, FALCON unzip",F
+b43,Birds,Birds,Streptopelia decaocto,Eurasian collared-dove,bStrDea1,bStrDea1.hap1,GCA_964273445.1,,GCA_964273445.1,"HiFi, Hifiasm Hi-C phasing",M
+b43,Birds,Birds,Nesoenas mayeri,pink pigeon,bNesMay2,bNesMay2.pri,GCA_963082525.1,,GCA_963082525.1,"HiFi, HiFiasm solo",F
+b43,Birds,Birds,Caloenas nicobarica,Nicobar pigeon,bCalNic1,bCalNic1.hap1,GCA_036013445.1,GCF_036013445.1,GCF_036013445.1,"HiFi, Hifiasm Hi-C phasing",M
+b43,Birds,Birds,Patagioenas fasciata,band-tailed pigeon,bPatFas1,bPatFas1.hap1,GCA_037038585.2,GCF_037038585.1,GCF_037038585.1,"HiFi, Hifiasm Hi-C phasing",F
+b43,Birds,Birds,Columba livia,rock dove,bColLiv1,bColLiv1.pat,GCA_036013475.2,GCF_036013475.1,GCF_036013475.1,"HiFi, Hifiasm + Trio phasing",F
+b44,Birds,Birds,Phoenicopterus ruber,American flamingo,bPhoRub2,bPhoRub2.pri,GCA_009819775.1,,GCA_009819775.1,"CLR I, FALCON unzip",F
+b45,Birds,Birds,Aechmophorus clarkii,Clark’s grebe,bAecCla1,bAecCla1.hap1,,,,,
+b46,Birds,Birds,Gallus gallus,white leghorn layer chicken,bGalGal1,bGalGal1.pat.layer,GCA_016700215.2,GCF_016700215.2,GCF_016700215.2,"CLR I, TrioCanu",F
+b46,Birds,Birds,Lagopus muta,rock ptarmigan,bLagMut1,bLagMut1.pri,GCA_023343835.1,GCF_023343835.1,GCF_023343835.1,"HiFi, Hifiasm solo",F
+b46,Birds,Birds,Tetrao urogallus,Western capercaillie,bTetUro1.1,bTetUro1.1.pri,GCA_951394365.1,,GCA_951394365.1,"HiFi, Hifiasm solo",M
+b46,Birds,Birds,Coturnix chinensis,king quail,bCotChi1,bCotChi1.hap2,GCA_039878825.1,,GCA_039878825.1,"HiFi, Hifiasm Hi-C phasing",M
+b47,Birds,Birds,Aythya fuligula,tufted duck,bAytFul2,bAytFul2.pri,GCA_009819795.1,GCF_009819795.1,GCF_009819795.1,"CLR, FALCON unzip",F
+b47,Birds,Birds,Aythya ferina,common pochard,bAytFer1,bAytFer1.hap1,GCA_964211825.1,,GCA_964211825.1,"HiFi, Hifiasm Hi-C phasing",F
+b47,Birds,Birds,Aythya marila,greater scaup,bAytMar2,bAytMar2.hap1,GCA_965140915.1,,GCA_965140915.1,"HiFi, Hifiasm Hi-C phasing",F
+b47,Birds,Birds,Netta rufina,red-crested pochard,bNetRuf1,bNetRuf1.pri,GCA_964035555.1,,GCA_964035555.1,"HiFi, Hifiasm solo",F
+b47,Birds,Birds,Anas platyrhynchos,mallard,bAnaPla2,bAnaPla2.hap1,GCA_964188345.1,,GCA_964188345.1,"HiFi, Hifiasm Hi-C phasing",F
+b47,Birds,Birds,Cygnus olor,mute swan,bCygOlo1,bCygOlo1.2.pri,GCA_009769625.2,GCF_009769625.2,GCF_009769625.2,"CLR I, FALCON unzip",F
+b47,Birds,Birds,Anas acuta,northern pintail,bAnaAcu1,bAnaAcu1.pri,GCA_963932015.1,GCF_963932015.1,GCF_963932015.1,"HiFi, Hifiasm solo",F
+b47,Birds,Birds,Branta canadensis,Canada goose,bBraCan1,bBraCan1.pri,GCA_965231335.1,,GCA_965231335.1,"HiFi, Hifiasm solo",M
+b47,Birds,Birds,Anser cygnoides,swan goose,bAnsCyg1,bAnsCyg1.pri,GCA_040182565.1,GCF_040182565.1,GCF_040182565.1,"HiFi, ONT, Hifiasm and Nextdenovo",F
+b47,Birds,Birds,Anser brachyrhynchus,pink-footed goose,bAnsBra1,bAnsBra1.pri,GCA_964034855.1,,GCA_964034855.1,"HiFi, Hifiasm solo",F
+b47,Birds,Birds,Anser anser,domestic goose,bAnsAns1,bAnsAns1.hap1,GCA_964211835.1,,GCA_964211835.1,"HiFi, Hifiasm Hi-C phasing",F
+b47,Birds,Birds,Bucephala clangula,common goldeneye,bBucCla1,bBucCla1.pri,GCA_964059595.1,,GCA_964059595.1,"HiFi, Hifiasm solo",M
+b47,Birds,Birds,Clangula hyemalis,long-tailed duck,bClaHye2,bClaHye2.1.pri,GCA_963989345.1,,GCA_963989345.1,"HiFi, Hifiasm solo",M
+b47,Birds,Birds,Cygnus columbianus,tundra swan,bCygCol1,bCygCol1.pri,GCA_965151615.1,,GCA_965151615.1,"HiFi, Hifiasm solo",F
+b47,Birds,Birds,Mergus octosetaceus,Brazilian merganser,bMerOct1,bMerOct1.hap1,GCA_036873955.1,,GCA_036873955.1,"HiFi, Hifiasm Hi-C phasing",F
+b48,Birds,Birds,Struthio camelus australis,common ostrich,bStrCam1,bStrCam1.hap1,GCA_040807025.1,GCF_040807025.1,GCF_040807025.1,"HiFi, Hifiasm Hi-C phasing",F
+b49,Birds,Birds,Eudromia elegans,elegant crested tinamou,bEudEle1,bEudEle1.hap1,GCA_047922985.1,,GCA_047922985.1,"HiFi, Hifiasm Hi-C phasing",F
+b50,Birds,Birds,Dromaius novaehollandiae,emu,bDroNov1,bDroNov1.hap1,GCA_036370855.1,GCF_036370855.1,GCF_036370855.1,"HiFi, Hifiasm Hi-C phasing",F
+b51,Birds,Birds,Apteryx mantelli,North Island brown kiwi,bAptMan1,bAptMan1.hap1,GCA_036417845.1,GCF_036417845.1,GCF_036417845.1,"HiFi, Hifiasm Hi-C phasing",M
+b52,Birds,Birds,Rhea pennata,lesser rhea ,bPtePen1,bPtePen1.pri,GCA_028389875.1,GCF_028389875.1,GCF_028389875.1,"HiFi, Hifiasm solo",M
+r1,Reptiles,Crocodilians,Crocodylus niloticus,Nile crocodile,,,,,,,
+r2,Reptiles,Crocodilians,Alligator mississippiensis,American alligator,rAllMis1,rAllMis1.hap2,GCA_030867095.1,GCF_030867095.1,GCF_030867095.1,"HiFiasm, Hi-C phasing",F
+r3,Reptiles,Crocodilians,Gavialis gangeticus,Indian gharial,rGavGan2,rGavGan2.hap2,GCA_030020295.1,,GCA_030020295.1,"HiFi, Hifiasm solo",M
+r4,Reptiles,Turtles,Carettochelys insculpta,pig-nosed turtle,ASM3395843v1,rCarIns1,GCA_033958435.1,,GCA_033958435.1,"HiFi, Hifiasm solo",UN
+r5,Reptiles,Turtles,Chelonia mydas,green sea turtle,rCheMyd1,rCheMyd1.pri,GCA_015237465.2,GCF_015237465.2,GCF_015237465.2,"CLR I, FALCON unzip",M
+r5,Reptiles,Turtles,Caretta caretta,loggerhead sea turtle,rCarCar2,rCarCar2.hap1,GCA_965140235.1,,GCA_965140235.1,"HiFiasm, Hi-C phasing",F
+r5,Reptiles,Turtles,Lepidochelys kempii,Kemp's ridley sea turtle,rLepKem1,rLepKem1.hap1,GCA_965140285.1,,GCA_965140285.1,"HiFiasm, Hi-C phasing",UN
+r5,Reptiles,Turtles,Lepidochelys olivacea,Pacific ridley,rLepOli2,rLepOli2.hap1,GCA_965140295.1,,GCA_965140295.1,"HiFiasm, Hi-C phasing",F
+r5,Reptiles,Turtles,Natator depressus,Australian flatback sea turtle,rNatDep1,rNatDep1.hap1,GCA_965152275.1,,GCA_965152275.1,"HiFiasm, Hi-C phasing",F
+r5,Reptiles,Turtles,Eretmochelys imbricata,Hawksbill sea turtle,rEreImb1,rEreImb1.hap1,GCA_965152235.1,,GCA_965152235.1,,
+r6,Reptiles,Turtles,Macrochelys suwanniensis,Suwannee snapping turtle,rMacSuw1,rMacSuw1.hap2,GCA_033349115.1,,GCA_033349115.1,"HiFiasm, Hi-C phasing",M
+r7,Reptiles,Turtles,Dermatemys mawii,Central American river turtle,,,,,,,
+r8,Reptiles,Turtles,Dermochelys coriacea,leatherback sea turtle,rDerCor1,rDerCor1.4.pri,GCA_009764565.4,GCF_009764565.3,GCF_009764565.3,"CLR I, FALCON unzip",M
+r9,Reptiles,Turtles,Emys orbicularis,European pond turtle,rEmyOrb1,rEmyOrb1.hap1,GCA_028017835.1,GCF_028017835.1,GCF_028017835.1,"HiFi, Hifiasm Hi-C phasing",F
+r9,Reptiles,Turtles,Malaclemys terrapin,diamondback terrapin,rMalTer1,rMalTer1.hap1,GCA_027887155.1,GCF_027887155.1,GCF_027887155.1,"HiFi, Hifiasm Hi-C phasing",M
+r10,Reptiles,Turtles,Pangshura tecta,Indian roofed turtle,rPanTec1,rPanTec1.hap2,GCA_045781085.1,,GCA_045781085.1,"HiFi, Hifiasm Hi-C phasing",M
+r11,Reptiles,Turtles,Sternotherus odoratus,Eastern musk turtle,rSteOdo2_p1.0,rSteOdo2.pri,GCA_032164245.1,,GCA_032164245.1,"HiFi, Hifiasm solo",M
+r12,Reptiles,Turtles,Platysternon megacephalum,big-headed turtle,,,,,,,
+r13,Reptiles,Turtles,Gopherus evgoodei,Goode's Thornscrub Tortoise,rGopEvg1,rGopEvg1.pri,GCA_007399415.1,GCF_007399415.2,GCF_007399415.2,"CLR I, FALCON unzip",M
+r13,Reptiles,Turtles,Gopherus flavomarginatus,Mexican gopher tortoise,rGopFla2,rGopFla2.mat,GCA_025201925.1,GCF_025201925.1,GCF_025201925.1,"CLR I, TrioCanu",UN
+r14,Reptiles,Turtles,Pelodiscus sinensis,Chinese softshell turtle,rPelSin1,,,,,,
+r15,Reptiles,Turtles,Myuchelys georgesi,Bellinger river turtle,rMyuGeo1,rMyuGeo1.pri,GCA_040894355.2,,GCA_040894355.2,"HiFi, Hifiasm solo",M
+r15,Reptiles,Turtles,Hydromedusa tectifera,Argentine snake-necked turtle,rHydTec1,rHydTec1.pri,,,,,
+r16,Reptiles,Turtles,Pelomedusa somalica,African side-necked turtle,rPelSom1,rPelSom1.pri,,,,,
+r17,Reptiles,Turtles,Podocnemis expansa,arrau turtle,rPodExp1,rPodExp1.hap2,GCA_045364815.1,,GCA_045364815.1,"HiFi, Hifiasm Hi-C phasing",M
+r17,Reptiles,Turtles,Podocnemis unifilis,yellow-spotted Amazon river turtle,rPodUni1,rPodUni1.pri,,,,,
+r18,Reptiles,Lepidosauria,Candoia aspera,viper boa,rCanAsp1,rCanAsp1.hap2,GCA_035149785.1,GCF_035149785.1,GCF_035149785.1,"HiFi, Hifiasm Hi-C phasing",F
+r18,Reptiles,Lepidosauria,Liasis olivaceus,olive python,rLiaOli1,rLiaOli1.hap1,GCA_030867105.1,,GCA_030867105.1,"HiFi, Hifiasm Hi-C phasing",F
+r19,Reptiles,Lepidosauria,Vipera latastei,snub-nosed viber,rVipLat1,rVipLat1.pri,GCA_024294585.1,,GCA_024294585.1,"HiFi, Hifiasm solo",M
+r19,Reptiles,Lepidosauria,Vipera ursinii,Hungarian meadow viper,rVipUrs1,rVipUrs1.pri,GCA_947247035.1,,GCA_947247035.1,"HiFi, Hifiasm solo",F
+r19,Reptiles,Lepidosauria,Vipera berus,adder,rVipBer3,rVipBer3.hap1,GCA_964194415.1,,GCA_964194415.1,"HiFi, Hifiasm Hi-C phasing",F
+r20,Reptiles,Lepidosauria,Thamnophis elegans,Western terrestrial garter snake,rThaEle1,rThaEle1.pri,GCA_009769535.1,GCF_009769535.1,GCF_009769535.1,"CLR I, FALCON unzip",F
+r20,Reptiles,Lepidosauria,Natrix helvetica,barred grass snake,rNatHel1,rNatHel1.hap1,GCA_964273705.1,,GCA_964273705.1,"HiFi, Hifiasm Hi-C phasing",F
+r20,Reptiles,Lepidosauria,Erythrolamprus reginae,royal ground snake,rEryReg1,rEryReg1.hap1,GCA_031021105.1,GCF_031021105.1,GCF_031021105.1,"HiFi, Hifiasm Hi-C phasing",F
+r21,Reptiles,Lepidosauria,Rhinotyphlops lalandei,Delalande's beaked blind snake,,,,,,,
+r22,Reptiles,Lepidosauria,Anolis sagrei,brown anole,rAnoSag1,rAnoSag1.mat,GCA_037176765.1,GCF_037176765.1,GCF_037176765.1,"HiFiasm, Hi-C phasing",M
+r23,Reptiles,Lepidosauria,Bradypodion pumilum,Cape dwarf chameleon,rBraPum1,rBraPum1.hap1,GCA_047715975.1,,GCA_047715975.1,"HiFiasm, Hi-C phasing",M
+r23,Reptiles,Lepidosauria,Bradypodion ventrale,Southern dwarf chameleon,rBraVen1,rBraVen1.pri,,,,,
+r23,Reptiles,Lepidosauria,Furcifer pardalis,panther chameleon,rFurPar1,rFurPar1.pri,GCA_030440675.1,,GCA_030440675.1,"HiFi, Hifiasm solo",M
+r24,Reptiles,Lepidosauria,Cyclura pinguis,stout iguana,rCycPin1,rCycPin1.hap1,GCA_030412105.1,,GCA_030412105.1,"HiFiasm, Hi-C phasing",M
+r25,Reptiles,Lepidosauria,Elgaria multicarinata webbii,Southern alligator lizard,rElgMul1,rElgMul1.pri,GCA_023053635.2,GCF_023053635.1,GCF_023053635.1,"HiFi, Hifiasm solo",UN
+r25,Reptiles,Lepidosauria,Anniella stebbinsi,Southern California legless lizard,rAnnSte1,rAnnSte1.hap1,GCA_029215775.1,,GCA_029215775.1,"HiFi, Hifiasm Hi-C phasing",F
+r25,Reptiles,Lepidosauria,Anguis fragilis,slow worm,,,,,,,
+r26,Reptiles,Lepidosauria,Shinisaurus crocodilurus,Chinese crocodile lizard,rShiCro1,rShiCro1.pri,GCA_021292165.1,,GCA_021292165.1,"CLR I, FALCON v1.0",F
+r27,Reptiles,Lepidosauria,Lacerta agilis,sand lizard,rLacAgi1,rLacAgi1.pri,GCA_009819535.1,GCF_009819535.1,GCF_009819535.1,"CLR I, FALCON unzip",F
+r27,Reptiles,Lepidosauria,Zootoca vivipara,European common lizard,rZooViv1,rZooViv1.pri,GCA_963506605.1,GCF_963506605.1,GCF_963506605.1,"HiFi, Hifiasm solo",F
+r27,Reptiles,Lepidosauria,Podarcis raffonei,Aeolian wall lizard,rPodRaf1,rPodRaf1.pri,GCA_027172205.1,GCF_027172205.1,GCF_027172205.1,"HiFi, Hifiasm solo",F
+r27,Reptiles,Lepidosauria,Podarcis cretensis,Cretan wall lizard,rPodCre2.1,rPodCre2.pri,GCA_951804945.1,,GCA_951804945.1,"HiFi, Hifiasm solo",M
+r27,Reptiles,Lepidosauria,Podarcis siculus,Italian wall lizard,rPodSic1,rPodSic1.hap1,GCA_964188175.1,,GCA_964188175.1,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis muralis,common wall lizard,rPodMur119,rPodMur119.hap1,GCA_964188315.1,,GCA_964188315.1,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis bocagei,Bocage's wall lizard,rPodBoc1,rPodBoc1.hap1,GCA_964188305.1,,GCA_964188305.1,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis gaigeae,Skyros wall lizard,rPodGai1,rPodGai1.hap1,GCA_964106915.2,,GCA_964106915.2,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis pityusensis,Ibiza wall lizard,rPodPit1,rPodPit1.hap1,GCA_964106645.2,,GCA_964106645.2,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis erhardii,Aegean wall lizard,rPodErh1,rPodErh1.hap1,GCA_964252035.1,,GCA_964252035.1,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis melisellensis,Dalmatian wall lizard,rPodMel1,rPodMel1.hap1,GCA_964234715.1,,GCA_964234715.1,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis filfolensis,Filfola wall lizard,rPodFil1,rPodFil1.hap1,GCA_964270895.1,,GCA_964270895.1,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis liolepis,Columbretes wall lizard,rPodLio1,rPodLio1.hap1,GCA_965112155.1,,GCA_965112155.1,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis vaucheri,Andalusian wall lizard,rPodVau1,rPodVau1.hap1,GCA_965113315.1,,GCA_965113315.1,"HiFi, Hifiasm Hi-C phasing",F
+r27,Reptiles,Lepidosauria,Podarcis tiliguerta,Tyrrhenian wall lizard,rPodTil1,rPodTil1.hap1,GCA_965153285.1,,GCA_965153285.1,"HiFi, Hifiasm Hi-C phasing",F
+r28,Reptiles,Lepidosauria,Rhineura floridana,Florida worm lizard,rRhiFlo1,rRhiFlo1.hap2,GCA_030035675.1,GCF_030035675.1,GCF_030035675.1,"HiFi, Hifiasm Hi-C phasing",F
+r29,Reptiles,Lepidosauria,Aspidoscelis tigris stejnegeri,Western whiptail stejnegeri,rAspTig1,rAspTig1.pri,GCA_023333525.2,,GCA_023333525.2,"HiFi, Hifiasm solo",M
+r30,Reptiles,Lepidosauria,Tiliqua scincoides,blue-tongue skink,rTilSci1,rTilSci1.hap2,GCA_035046505.1,,GCA_035046505.1,"HiFi, Hifiasm Hi-C phasing",M
+r31,Reptiles,Lepidosauria,Euleptes europaea,European leaf-toed gecko,rEulEur1,rEulEur1.hap1,GCA_029931775.1,GCF_029931775.1,GCF_029931775.1,"HiFi, Hifiasm Hi-C phasing",M
+r31,Reptiles,Lepidosauria,Eublepharis macularius,leopard gecko,rEubMac1,rEubMac1.pri,GCA_028583425.1,GCF_028583425.1,GCF_028583425.1,"HiFi, Hifiasm solo",UN
+r32,Reptiles,Lepidosauria,Dibamus smithi,Smith's blind skink,rDibSmi1,rDibSmi1.hap1,GCA_046126795.1,,GCA_046126795.1,"HiFi, Hifiasm Hi-C phasing",M
+r33,Reptiles,Lepidosauria,Sphenodon punctatus,tuatara,,,,,,,
+a1,Amphibians,Amphibians,Discoglossus pictus,painted frog,aDisPic1,aDisPic1.pri,GCA_027410445.1,,GCA_027410445.1,"CLR I, FALCON unzip",F
+a2,Amphibians,Amphibians,Bombina bombina,European fire-bellied toad,aBomBom1,aBomBom1.pri,GCA_027579735.1,GCF_027579735.1,GCF_027579735.1,"CLR I, FALCON unzip",M
+a2,Amphibians,Amphibians,Bombina variegata,yellow-bellied toad,aBomVar4,aBomVar4.pat,GCA_964205295.1,,GCA_964205295.1,"HiFi, Hifiasm trio",M
+a3,Amphibians,Amphibians,Rhinophrynus dorsalis,Mexican burrowing toad,aRhiDor1,aRhiDor1.hap1,GCA_037306005.1,,GCA_037306005.1,"HiFi, Hifiasm Hi-C phasing",UN
+a4,Amphibians,Amphibians,Ascaphus truei,coastal tailed frog,aAscTru1,aAscTru1.hap1,GCA_040206685.1,,GCA_040206685.1,"HiFi, Hifiasm Hi-C phasing",M
+a5,Amphibians,Amphibians,Scutiger boulengeri,Xizang alpine toad,,,,,,,
+a6,Amphibians,Amphibians,Pelobates fuscus,common spadefoot toad,aPelFus1,aPelFus1.pri,GCA_036172605.1,GCF_036172605.1,GCF_036172605.1,"HiFi, Hifiasm solo merge",M
+a7,Amphibians,Amphibians,Pelodytes ibericus,Iberian parsley frog,aPelIbe1,aPelIbe1.pri,GCA_036172795.1,,GCA_036172795.1,"HiFi, Hifiasm solo merge",M
+a8,Amphibians,Amphibians,Spea bombifrons,plain spadefoot toad,aSpeBom1,aSpeBom1.pri,GCA_027358695.2,GCF_027358695.1,GCF_027358695.1,"HiFi, Hifiasm solo",F
+a8,Amphibians,Amphibians,Spea multiplicata,Mexican spadefoot toad,aSpeMul1,,,,,,
+a8,Amphibians,Amphibians,Scaphiopus couchii,Couch's spadefoot toad,aScaCou1,,,,,,
+a9,Amphibians,Amphibians,Xenopus petersii,Peter's clawed frog,aXenPet1,aXenPet1.pat,GCA_038501925.1,,GCA_038501925.1,"HiFi, Hifiasm trio",F
+a10,Amphibians,Amphibians,Eleutherodactylus coqui,coqui,aEleCoq1,aEleCoq1.hap1,GCA_035609145.1,GCF_035609145.1,GCF_035609145.1,"HiFi, Hifiasm Hi-C phasing",M
+a11,Amphibians,Amphibians,Hyperolius riggenbachi,Riggenbach's reed frog,aHypRig1,aHypRig1.pri,GCA_040937935.1,GCF_040937935.1,GCF_040937935.1,"HiFi, Hifiasm Hi-C phasing",M
+a12,Amphibians,Amphibians,Rhinoderma darwinii,Darwin's frog,aRhiDar1,,,,,,
+a13,Amphibians,Amphibians,Bufo bufo,European toad,aBufBuf1,aBufBuf1.pri,GCA_905171765.1,GCF_905171765.1,GCF_905171765.1,"CLR II, FALCON unzip",M
+a14,Amphibians,Amphibians,Dendropsophus ebraccatus,hourglass treefrog,aDenEbr1,aDenEbr1.pat,GCA_027789765.1,GCF_027789765.1,GCF_027789765.1,CLR I TrioCanu,F
+a14,Amphibians,Amphibians,Hyla sarda,Sardinian treefrog,aHylSar1,aHylSar1.hap1,GCA_029499605.1,GCF_029499605.1,GCF_029499605.1,"HiFi, Hifiasm Hi-C phasing",F
+a31,Amphibians,Amphibians,Ranitomeya imitator,mimic poison frog,aRanImi1,aRanImi1.pri,GCA_032444005.1,GCF_032444005.1,GCF_032444005.1,"HiFi, Hifiasm Hi-C phasing",F
+a31,Amphibians,Amphibians,Dendrobates auratus,green-and-black poison dart frog,,,,,,,
+a31,Amphibians,Amphibians,Anomaloglossus baeobatrachus,Edward's Rocket Frog,aAnoBae1,aAnoBae1.hap1,GCA_048569485.1,,GCA_048569485.1,"HiFi, Hifiasm Hi-C phasing",M
+a15,Amphibians,Amphibians,Engystomops pustulosus,tungara frog,aEngPut4,aEngPut4.mat,GCA_040894005.1,GCF_040894005.1,GCF_040894005.1,"HiFi, Hifiasm trio",F
+a15,Amphibians,Amphibians,Leptodactylus fuscus,rufous frog,aLepFus1,aLepFus1.hap2,GCA_031893055.1,,GCA_031893055.1,"HiFi, Hifiasm Hi-C phasing",F
+a16,Amphibians,Amphibians,Pseudophryne corroboree,Southern corroboree frog,aPseCor3,aPseCor3.hap2,GCA_028390025.1,GCF_028390025.1,GCF_028390025.1,"HiFi, Hifiasm Hi-C phasing",M
+a16,Amphibians,Amphibians,Mixophyes fleayi,Fleay's barred frog,aMixFle1,aMixFle1.hap1,GCA_038048845.1,,GCA_038048845.1,"HiFi, Hifiasm Hi-C phasing",M
+a16,Amphibians,Amphibians,Telmatobufo venustus,Chile Mountains false toad,aMixVen1,,,,,,
+a17,Amphibians,Amphibians,Fejervarya limnocharis,Asian grass frog,,,,,,,
+a18,Amphibians,Amphibians,Gastrophryne carolinensis,Eastern narrow-mouthed toad,aGasCar1,aGasCar1.hap1,GCA_027917425.1,,GCA_027917425.1,"HiFi, Hifiasm Hi-C phasing",UN
+a19,Amphibians,Amphibians,Mantella aurantiaca,golden mantella,aManAur1,aManAur1.hap1,GCA_048565345.1,,GCA_048565345.1,"HiFi, Hifiasm Hi-C phasing",F
+a20,Amphibians,Amphibians,Rana temporaria,European common frog,aRanTem1,aRanTem1.pri,GCA_905171775.1,GCF_905171775.1,GCF_905171775.1,"CLR II, FALCON unzip",F
+a20,Amphibians,Amphibians,Pelophylax lessonae,pool frog,aPelLes1,aPelLes1.hap1,GCA_965119305.1,,GCA_965119305.1,"HiFi, Hifiasm Hi-C phasing",F
+a21,Amphibians,Amphibians,Sooglossus thomasseti,Thomasset's Seychelles frog,,,,,,,
+a22,Amphibians,Amphibians,Cryptobranchus alleganiensis,hellbender salamander,,,,,,,
+a23,Amphibians,Amphibians,Thorius spilogaster,spotted minute salamander,,,,,,,
+a23,Amphibians,Amphibians,Parvimolge townsendi,Townsend's dwarf salamander,,,,,,,
+a24,Amphibians,Amphibians,Necturus punctatus,dwarf waterdog,,,,,,,
+a25,Amphibians,Amphibians,Ambystoma mexicanum x Ambystoma tigrinum,axolotl,aAmbMet2,aAmbMet2.pri,GCA_040938575.1,GCF_040938575.1,GCF_040938575.1,"HiFi, HiFiasm solo",F
+a26,Amphibians,Amphibians,Pleurodeles waltl,Iberian ribbed newt,aPleWal1,aPleWal.pri,GCA_026652325.1,,GCA_026652325.1,"HiFi, HiFiasm solo",F
+a26,Amphibians,Amphibians,Triturus cristatus,warty newt,aTriCri1,aTriCri1.pri,GCA_964204655.1,,GCA_964204655.1,"HiFi, HiFiasm solo",F
+a26,Amphibians,Amphibians,Lissotriton vulgaris,common newt,aLisVul1,aLisVul1.pri,GCA_964263255.1,,GCA_964263255.1,"HiFi, HiFiasm solo",F
+a26,Amphibians,Amphibians,Lissotriton helveticus,palmate newt,aLisHel1,aLisHel1.pri,GCA_964261635.1,,GCA_964261635.1,"HiFi, HiFiasm solo",M
+a27,Amphibians,Amphibians,Siren intermedia,lesser siren,,,,,,,
+a28,Amphibians,Amphibians,Rhinatrema bivittatum,two-lined caecilian,aRhiBiv1,aRhiBiv1.2.pri,GCA_901001135.2,GCF_901001135.1,GCF_901001135.1,"CLR II, FALCON unzip",UN
+a29,Amphibians,Amphibians,Microcaecilia unicolor,tiny cayenne caecilian,aMicUni1,aMicUni1.2.pri,GCA_901765095.2,,GCA_901765095.2,"CLR I, FALCON unzip",UN
+a30,Amphibians,Amphibians,Geotrypetes seraphini,Gaboon caecilian,aGeoSer1,aGeoSer1.pri,GCA_902459505.2,GCF_902459505.1,GCF_902459505.1,"CLR II, FALCON unzip",UN
+f1,Fishes,Ray-finned fishes,Erpetoichthys calabaricus,reedfish,fErpCal1.3,fErpCal1.3.pri,GCA_900747795.4,GCF_900747795.2,GCF_900747795.2,"CLR II, FALCON unzip",UN
+f2,Fishes,Ray-finned fishes,Acipenser ruthenus,sterlet,fAciRut3,fAciRut3.mat,GCA_902713425.2,GCF_902713425.1,GCF_902713425.1,"HiFi, TrioCanu",UN
+f2,Fishes,Ray-finned fishes,Acipenser naccarii,Adriatic sturgeon,fAciNac1,,,,,,
+f3,Fishes,Ray-finned fishes,Amia calva,bowfin,fAmiCal2,fAmiCal2.hap1,GCA_036373705.1,GCF_036373705.1,GCF_036373705.1,"HiFi, Hifiasm Hi-C phasing",F
+f4,Fishes,Ray-finned fishes,Lepisosteus oculatus,spotted gar,fLepOcu1,fLepOcu1.hap2,GCA_040954835.1,GCF_040954835.1,GCF_040954835.1,"HiFi, Hifiasm Hi-C phasing",M
+f4,Fishes,Ray-finned fishes,Atractosteus spatula,alligator gar,fAtrSpa1,,,,,,
+f5,Fishes,Ray-finned fishes,Megalops cyprinoides,Indo-pacific tarpon,fMegCyp1,fMegCyp1.pri,GCA_013368585.1,GCF_013368585.1,GCF_013368585.1,"CLR I, FALCON unzip",UN
+f6,Fishes,Ray-finned fishes,Albula vulpes,bonefish,,,,,,,
+f7,Fishes,Ray-finned fishes,Notacanthus chemnitzii,snub-nosed spiny eel,,,,,,,
+f8,Fishes,Ray-finned fishes,Anguilla anguilla,European eel,fAngAng1,fAngAng1.pri,GCA_013347855.1,GCF_013347855.1,GCF_013347855.1,"CLR, FALCON unzip",UN
+f8,Fishes,Ray-finned fishes,Conger conger,European conger,fConCon1,fConCon1.pri,GCA_963514075.1,GCF_963514075.1,GCF_963514075.1,"HiFi, Hifiasm solo",UN
+f9,Fishes,Ray-finned fishes,Hiodon alosoides,goldeye,,,,,,,
+f10,Fishes,Ray-finned fishes,Scleropages formosus,golden arowana,fSclFor1,fSclFor1.pri,GCA_900964775.1,GCF_900964775.1,GCF_900964775.1,"CLR I, FALCON unzip",UN
+f11,Fishes,Ray-finned fishes,Denticeps clupeoides,denticle herring,fDenClu1,fDenClu1.pri,GCA_900700375.2,GCF_900700375.1,GCF_900700375.1,"CLR, FALCON unzip",UN
+f11,Fishes,Ray-finned fishes,Alosa sapidissima,American shad,fAloSap1,fAloSap1.pri,GCA_018492685.1,GCF_018492685.1,GCF_018492685.1,"HiFi, Hifiasm solo",M
+f11,Fishes,Ray-finned fishes,Sprattus sprattus,European sprat,fSprSpr1,fSprSpr1.pri,GCA_963457725.1,,GCA_963457725.1,"HiFi, Hifiasm solo",UN
+f11,Fishes,Ray-finned fishes,Sardina pilchardus,sardine,fSarPil1,fSarPil1.pri,GCA_963854185.1,GCF_963854185.1,GCF_963854185.1,"HiFi, Hifiasm solo",UN
+f11,Fishes,Ray-finned fishes,Coilia mystus,Osbeck's grenadier anchovy,fColCha1,fColCha1.hap2,GCA_048544225.1,,GCA_048544225.1,"HiFi, Hifiasm Hi-C phasing",F
+f12,Fishes,Ray-finned fishes,Alepocephalus australis,small scaled brown slickhead,,,,,,,
+f13,Fishes,Ray-finned fishes,Chanos chanos,milkfish,fChaCha1,fChaCha1.pri,GCA_902362185.1,GCF_902362185.1,GCF_902362185.1,"CLR II, FALCON unzip",UN
+f14,Fishes,Ray-finned fishes,Danio rerio,zebrafish,fDanRer4,fDanRer4.pri,GCA_944039275.1,,GCA_944039275.1,"HiFi, Hifiasm solo",UN
+f14,Fishes,Ray-finned fishes,Phoxinus phoxinus,Eurasian minnow,fPhoPho1,fPhoPho.pri,GCA_949152265.1,,GCA_949152265.1,"HiFi, Hifiasm solo",F
+f14,Fishes,Ray-finned fishes,Rutilus rutilus,roach minnow,fRutRut2,fRutRut2.pri,GCA_951802725.1,,GCA_951802725.1,"HiFi, Hifiasm solo",F
+f14,Fishes,Ray-finned fishes,Squalius cephalus,European chub,fSquCep2.1,fSquCep2.pri,GCA_949319135.1,,GCA_949319135.1,"HiFi, Hifiasm solo",UN
+f14,Fishes,Ray-finned fishes,Barbus barbus,barbel,fBarBab1,fBarBab1.pri,GCA_936440315.1,,GCA_936440315.1,"HiFi, Hifiasm solo",M
+f14,Fishes,Ray-finned fishes,Barbatula barbatula,stone loach,fBarBar1,fBarBar1.pri,GCA_947034865.1,,GCA_947034865.1,"HiFi, Hifiasm solo",F
+f14,Fishes,Ray-finned fishes,Abramis brama,common bream,fAbrBra2.1,fAbrBra2.1.pri,GCA_963993115.1,,GCA_963993115.1,"HiFi, Hifiasm solo",UN
+f14,Fishes,Ray-finned fishes,Scardinius erythrophthalmus,common rudd,fScaEry2,fScaEry2.hap1,GCA_964197995.1,,GCA_964197995.1,"HiFi, Hifiasm Hi-C phasing",F
+f14,Fishes,Ray-finned fishes,Leuciscus leuciscus,common dace,fLeuLeu2,fLeuLeu2.hap1,GCA_965113295.1,,GCA_965113295.1,"HiFi, Hifiasm Hi-C phasing",UN
+f14,Fishes,Ray-finned fishes,Gobio gobio,gudgeon,fGobGob1,fGobGob1.pri,GCA_949357685.1,,GCA_949357685.1,"HiFi, Hifiasm solo",UN
+f14,Fishes,Ray-finned fishes,Carassius carassius,common carp,fCarcar2,fCarCar2.pri,GCA_963082965.1,GCF_963082965.1,GCF_963082965.1,"HiFi, Hifiasm solo",F
+f14,Fishes,Ray-finned fishes,Cyprinella lutrensis,red shiner,fCypLut1,,,,,,
+f14,Fishes,Ray-finned fishes,Cyprinella venusta,blacktail shiner,fCypVen1,fCypVen1.hap1,GCA_038024135.1,,GCA_038024135.1,"HiFi, Hifiasm Hi-C phasing",M
+f14,Fishes,Ray-finned fishes,Rhinogobio nasutus,Rhinogobio nasutus,fRhiNas1,fRhiNas1.pri,GCA_048301585.1,,GCA_048301585.1,"HiFi, ONT, HiFiasm",UN
+f15,Fishes,Ray-finned fishes,Electrophorus electricus,electric eel,fEleEle2,fEleEle2.pri,GCA_041902795.1,,GCA_041902795.1,"HiFi, ONT, HiFiasm and NextDenovo",UN
+f16,Fishes,Ray-finned fishes,Pygocentrus nattereri,red-bellied piranha,fPygNat1,fPygNat1.pri,GCA_015220715.1,GCF_015220715.1,GCF_015220715.1,"CLR I, FALCON unzip",M
+f16,Fishes,Ray-finned fishes,Hoplias malabaricus,trahira,fHopMal1,fHopMal1.hap1,GCA_029633855.2,GCF_029633855.1,GCF_029633855.1,"HiFi, Hifiasm Hi-C phasing",M
+f16,Fishes,Ray-finned fishes,Salminus brasiliensis,golden dorado,fSalBra1,fSalBra1.hap2,GCA_030463535.1,GCF_030463535.1,GCF_030463535.1,"HiFi, Hifiasm Hi-C phasing",M
+f16,Fishes,Ray-finned fishes,Prochilodus lineatus,streaked prochilod,fProLin1,,,,,,
+f16,Fishes,Ray-finned fishes,Characidium zebra,zebra darter,,,,,,,
+f16,Fishes,Ray-finned fishes,Astyanax mexicanus,Mexican tetra,fAstMex1,fAstMex1.pri,GCA_023375975.1,GCF_023375975.1,GCF_023375975.1,,
+f17,Fishes,Ray-finned fishes,Silurus aristotelis,Aristotle's catfish,fSilAri1,fSilAri1.pri,GCA_946808225.1,,GCA_946808225.1,"HiFi, Hifiasm solo",M
+f17,Fishes,Ray-finned fishes,Pangasianodon hypophthalmus,striped catfish,fPanHyp1,fPanHyp1.pri,GCA_027358585.1,GCF_027358585.1,GCF_027358585.1,"HiFi, Hifiasm solo",UN
+f17,Fishes,Ray-finned fishes,Neoarius graeffei,blue salmon catfish,fNeoGra1,fNeoGra1.pri,GCA_027579695.1,GCF_027579695.1,GCF_027579695.1,"HiFi, Hifiasm solo",UN
+f17,Fishes,Ray-finned fishes,Trichomycterus rosablanca,Rosablanca cavefish,fTriRos1,fTriRos1.hap1,GCA_030014385.1,GCF_030014385.1,GCF_030014385.1,"HiFi, Hifiasm Hi-C phasing",M
+f17,Fishes,Ray-finned fishes,Clarias gariepinus,North African catfish,fClaGar1,fClaGar1.hap1,GCA_024256435.1,,GCA_024256435.1,"HiFi, Hifiasm Hi-C phasing",M
+f18,Fishes,Ray-finned fishes,Lepidogalaxias salamandroides,salamanderfish,fLepSal2,fLepSal2.hap1,GCA_049190665.1,,GCA_049190665.1,"HiFi, Hifiasm Hi-C phasing",M
+f19,Fishes,Ray-finned fishes,Argentina silus,greater argentine,fArgSil1,fArgSil1.pri,GCA_951799395.1,,GCA_951799395.1,"HiFi, Hifiasm solo",M
+f19,Fishes,Ray-finned fishes,Nansenia antarctica,pencil smelt,fNanAnt1,fNanAnt1.pri,GCA_963989245.1,,GCA_963989245.1,"HiFi, Hifiasm solo",UN
+f20,Fishes,Ray-finned fishes,Aplochiton taeniatus,peladilla,fAplTae1,fAplTae1.pri,GCA_017639675.1,,GCA_017639675.1,"CLR, FALCON unzip",UN
+f21,Fishes,Ray-finned fishes,Esox lucius,Northern pike,fEsoLuc1 ,fEsoLuc1.pri,GCA_011004845.1,GCF_011004845.1,GCF_011004845.1,"CLR II, FALCON unzip",UN
+f22,Fishes,Ray-finned fishes,Salmo trutta,brown trout,fSalTru1,fSalTru1.2.pri,GCA_901001165.2,,GCA_901001165.2,"CLR II, FALCON unzip",F
+f22,Fishes,Ray-finned fishes,Salvelinus alpinus,Arctic char,fSalAlp2,fSalAlp2.pri,GCA_036784965.1,,GCA_036784965.1,"HiFi, Hifiasm solo",F
+f22,Fishes,Ray-finned fishes,Coregonus lavaretus,common whitefish,fCorLav1,fCorLav1.hap1,GCA_964263955.1,,GCA_964263955.1,"HiFi, Hifiasm Hi-C phasing",M
+f23,Fishes,Ray-finned fishes,Osmerus mordax,rainbow smelt,fOsmMor3,fOsmMor3.pri,GCA_038355195.1,,GCA_038355195.1,"HiFi, Hifiasm solo",M
+f23,Fishes,Ray-finned fishes,Hypomesus transpacificus,delta smelt,fHypTra1,,,,,,
+f23,Fishes,Ray-finned fishes,Osmerus eperlanus,European smelt,fOsmEpe2,fOsmEpe2.pri,GCA_963692335.1,GCF_963692335.1,GCF_963692335.1,"HiFi, Hifiasm solo",UN
+f23,Fishes,Ray-finned fishes,Spirinchus thaleichthys,longfin smelt,,,,,,,
+f24,Fishes,Ray-finned fishes,Borostomias antarcticus,large-eye snaggletooth,fBorAnt1,fBorAnt1.pri,GCA_949987555.1,,GCA_949987555.1,"HiFi, Hifiasm solo",UN
+f24,Fishes,Ray-finned fishes,Stomias gracilis,Boa dragonfish,fStoGra1,,,,,,
+f25,Fishes,Ray-finned fishes,Ateleopus japonicus,Pacific jellynose fish,,,,,,,
+f26,Fishes,Ray-finned fishes,Notolepis coatsi,Antarctic jonasfish,fNotCoa1,fNotCoa1.pri,GCA_963971535.1,,GCA_963971535.1,"HiFi, Hifiasm solo",UN
+f26,Fishes,Ray-finned fishes,Benthalbella elongata,pearleye,,,,,,,
+f27,Fishes,Ray-finned fishes,Electrona antarctica,Antarctic lanternfish,fEleAnt2,fEleAnt2.pri,GCA_951216825.1,,GCA_951216825.1,"HiFi, Hifiasm solo",F
+f27,Fishes,Ray-finned fishes,Electrona carlsbergi,Electron subantarctic,fEleCar1,,,,,,
+f27,Fishes,Ray-finned fishes,Electrona subaspera,rough laternfish,fEleSub1,,,,,,
+f27,Fishes,Ray-finned fishes,Protomyctophum parallelum,parallel lanternfish,fProPar1,fProPar1.hap1,GCA_964188405.1,,GCA_964188405.1,"HiFi, Hifiasm Hi-C phasing",UN
+f27,Fishes,Ray-finned fishes,Gymnoscopelus braueri,Brauer's lanternfish,fGymBra2,fGymBra2.pri,GCA_963280865.1,,GCA_963280865.1,"HiFi, Hifiasm solo",UN
+f27,Fishes,Ray-finned fishes,Gymnoscopelus microlampas,minispotted lanternfish,fGymMic1,fGymMic1.pri,GCA_963454915.1,,GCA_963454915.1,"HiFi, Hifiasm solo",UN
+f27,Fishes,Ray-finned fishes,Nannobrachium achirus,Lantern fish,fNanAch1,fNanAch1.pri,GCA_963921795.1,,GCA_963921795.1,"HiFi, Hifiasm solo",UN
+f27,Fishes,Ray-finned fishes,Protomyctophum bolini,Bolin’s lanternfish,fProBol1,fProBol1.pri,GCA_963924005.1,,GCA_963924005.1,"HiFi, Hifiasm solo",M
+f28,Fishes,Ray-finned fishes,Lampris incognitus,smalleye Pacific opah,fLamInc1,fLamInc1.hap2,GCA_029633865.1,GCF_029633865.1,GCF_029633865.1,"HiFi, Hifiasm Hi-C phasing",M
+f29,Fishes,Ray-finned fishes,Amblyopsis spelaea,Northern cavefish,fAmbSpe1,fAmpSpe.hap1,GCA_046255685.1,,GCA_046255685.1,"HiFi, Hifiasm Hi-C phasing",F
+f30,Fishes,Ray-finned fishes,Zeus faber,John dory,fZeuFab8,fZeuFab8.pri,GCA_960531495.1,,GCA_960531495.1,"HiFi, Hifiasm solo",UN
+f31,Fishes,Ray-finned fishes,Stylephorus chordatus,tube-eye,,,,,,,
+f32,Fishes,Ray-finned fishes,Gadus morhua,Atlantic cod,fGadMor3,fGadMor3.pri,GCA_902167405.1,GCF_902167405.1,GCF_902167405.1,"CLR I, FALCON unzip",UN
+f32,Fishes,Ray-finned fishes,Pollachius pollachius,European pollock,fPolPol2.1,fPolPol2.pri,GCA_949987615.1,,GCA_949987615.1,"HiFi, Hifiasm solo",UN
+f32,Fishes,Ray-finned fishes,Micromesistius poutassou,blue whiting,fMicPou1,fMicPou1.pri,GCA_964030765.1,,GCA_964030765.1,"HiFi, Hifiasm solo",F
+f32,Fishes,Ray-finned fishes,Ciliata mustela,fivebeard rockling,fCilMus1,,,,,,
+f33,Fishes,Ray-finned fishes,Polymixia lowei,beardfish,fPolLow2,fPolLow2.hap1,GCA_047511565.1,,GCA_047511565.1,"HiFi, Hifiasm Hi-C phasing",M
+f33,Fishes,Ray-finned fishes,Polymixia cf. hollisterae,Bermuda beardfish,fPolHol1,fPolHol1.hap1,GCA_048537225.1,,GCA_048537225.1,"HiFi, Hifiasm Hi-C phasing",US
+f33,Fishes,Ray-finned fishes,Polymixia berndti,Pacific beardfish,,,,,,,
+f34,Fishes,Ray-finned fishes,Poromitra crassiceps,crested bigscale,fPorCra3,fPorCra3.hap1,GCA_964638095.1,,GCA_964638095.1,"HiFi, Hifiasm Hi-C phasing",UN
+f34,Fishes,Ray-finned fishes,Centroberyx gerrardi,bight redfish,fCenGer3,fCenGer3.hap1,GCA_048128805.1,,GCA_048128805.1,"HiFi, Hifiasm Hi-C phasing",UN
+f35,Fishes,Ray-finned fishes,Myripristis murdjan,pinecone soldierfish,fMyrMur1,fMyrMur1.pri,GCA_902150065.1,GCF_902150065.1,GCF_902150065.1,"CLR I, FALCON unzip",UN
+f36,Fishes,Ray-finned fishes,Ophidion barbatum,snake blenny,,,,,,,
+f37,Fishes,Ray-finned fishes,Thalassophryne amazonica,prehistoric monster fish,fThaAma1,fThaAma1.pri,GCA_902500255.1,GCF_902500255.1,GCF_902500255.1,"CLR I, FALCON unzip",UN
+f38,Fishes,Ray-finned fishes,Periophthalmus magnuspinnatus,Korean giant-fin mudskipper,fPerMag1,fPerMag1.2.pri,GCA_009829125.3,GCF_009829125.3,GCF_009829125.3,"CLR I, FALCON unzip",F
+f38,Fishes,Ray-finned fishes,Gobius niger,black goby,fGobNig1,fGobNig1.pri,GCA_951799975.1,,GCA_951799975.1,"HiFi, Hifiasm solo",UN
+f39,Fishes,Ray-finned fishes,Syngnathus acus,greater pipefish,fSynAcu1,fSynAcu1.2.pri,GCA_901709675.2,GCF_901709675.1,GCF_901709675.1,"CLR I, FALCON unzip",UN
+f39,Fishes,Ray-finned fishes,Syngnathus typhle,broad-nosed pipefish,fSynTyp1,fSynTyp1.hap1,GCA_048301445.1,,GCA_048301445.1,"HiFi, Hifiasm Hi-C phasing",UN
+f39,Fishes,Ray-finned fishes,Aulostomus maculatus,West Atlantic trumpetfish,fAulMac1,fAulMac1.hap1,GCA_048301465.1,,GCA_048301465.1,"HiFi, Hifiasm Hi-C phasing",UN
+f40,Fishes,Ray-finned fishes,Thunnus maccoyii,southern bluefin tuna,fThuMac1,fThuMac1.pri,GCA_910596095.1,GCF_910596095.1,GCF_910596095.1,"HiFi, Hifiasm solo",M
+f40,Fishes,Ray-finned fishes,Thunnus thynnus,northern bluefin tuna,fThuThy2,fThuThy2.pri,GCA_963924715.1,GCF_963924715.1,GCF_963924715.1,"HiFi, Hifiasm solo",UN
+f40,Fishes,Ray-finned fishes,Thunnus albacares,yellowfin tuna,fThuAlb1,fThuAlb1.pri,GCA_914725855.1,GCF_914725855.1,GCF_914725855.1,"HiFi, Hifiasm solo",UN
+f40,Fishes,Ray-finned fishes,Thunnus obesus,bigeye tuna,fThuObe1,,,,,,
+f40,Fishes,Ray-finned fishes,Scomber japonicus,Pacific chub mackerel,fScoJap1,fScoJap1.pri,GCA_027409825.1,GCF_027409825.1,GCF_027409825.1,"HiFi, Hifiasm solo",M
+f40,Fishes,Ray-finned fishes,Scomber scombrus,Atlantic mackerel,fScoSco1,fScoSco1.pri,GCA_963691925.1,GCF_963691925.1,GCF_963691925.1,"HiFi, Hifiasm solo",UN
+f40,Fishes,Ray-finned fishes,Arripis georgiana,Australian herring,fArrGeo1,fArrGeo1.hap2,GCA_042242135.1,,GCA_042242135.1,"HiFi, Hifiasm Hi-C phasing",UN
+f40,Fishes,Ray-finned fishes,Eumegistus illustris,brilliant pomfret,fEumIll1,,,,,,
+f41,Fishes,Ray-finned fishes,Mastacembelus armatus,zig-zag eel,fMasArm1,fMasArm1.3.pri,GCA_900324485.3,GCF_900324485.2,GCF_900324485.2,"CLR I, FALCON unzip",UN
+f42,Fishes,Ray-finned fishes,Anabas testudineus,climbing perch,fAnaTes1,fAnaTes1.pri,GCA_900324465.3,GCF_900324465.2,GCF_900324465.2,"CLR I, FALCON unzip",M
+f42,Fishes,Ray-finned fishes,Betta splendens,Siamese fighting fish,fBetSpl5,fBetSpl5.4.pri,GCA_900634795.4,GCF_900634795.4,GCF_900634795.4,"CLR I, FALCON unzip",M
+f43,Fishes,Ray-finned fishes,Toxotes jaculatrix,banded archerfish,fToxJac2,fToxJac2.pri,GCA_017976425.1,GCF_017976425.1,GCF_017976425.1,"CLR II, FALCON unzip",UN
+f44,Fishes,Ray-finned fishes,Hippoglossus hippoglossus,Atlantic halibut,fHipHip1,fHipHip1.pri,GCA_009819705.1,GCF_009819705.1,GCF_009819705.1,"CLR I, FALCON unzip",M
+f44,Fishes,Ray-finned fishes,Pleuronectes platessa,European plaice,fPlePla1,fPlePla1.pri,GCA_947347685.1,GCF_947347685.1,GCF_947347685.1,"HiFi, HiFiasm solo, Hi-C YaHS",UN
+f44,Fishes,Ray-finned fishes,Platichthys flesus,European flounder,fPlaFle2.1,fPlaFle2.1.pri,GCA_949316205.1,GCF_949316205.1,GCF_949316205.1,"HiFi, Hifiasm solo",UN
+f44,Fishes,Ray-finned fishes,Limanda limanda,common dab,fLimLim1,fLimLim1.pri,GCA_963576545.1,GCF_963576545.1,GCF_963576545.1,"HiFi, Hifiasm solo",UN
+f44,Fishes,Ray-finned fishes,Pseudopleuronectes americanus,winter flounder,fPseAme1,,,,,,
+f44,Fishes,Ray-finned fishes,Microstomus kitt,lemon sole,fMicKit1,fMicKit.pri,GCA_964266715.1,,GCA_964266715.1,"HiFi, Hifiasm solo",UN
+f44,Fishes,Ray-finned fishes,Solea solea,common sole,fSolSol10.1,fSolSol10.pri,GCA_958295425.1,GCF_958295425.1,GCF_958295425.1,"HiFi, Hifiasm solo",F
+f44,Fishes,Ray-finned fishes,Microchirus variegatus,thickback sole,fMicVar1,fMicVar1.pri,GCA_963457635.1,,GCA_963457635.1,,F
+f44,Fishes,Ray-finned fishes,Scophthalmus maximus,turbot,fScoMax1,fScoMax1.pri,GCA_963854745.1,,GCA_963854745.1,"HiFi, Hifiasm solo",UN
+f45,Fishes,Ray-finned fishes,Xiphias gladius,swordfish,,,,,,,
+f46,Fishes,Ray-finned fishes,Echeneis naucrates,live sharksucker,fEcheNa1,fEcheNa1.pri,GCA_900963305.2,GCF_900963305.1,GCF_900963305.1,"CLR II, FALCON unzip",UN
+f46,Fishes,Ray-finned fishes,Trachurus trachurus,Atlantic horse mackerel,fTraTra1,fTraTra1.2.pri,GCA_905171665.2,,GCA_905171665.2,"CLR II, FALCON unzip",UN
+f46,Fishes,Ray-finned fishes,Sphyraena novaehollandiae,snook,fSphNov1,,,,,,
+f47,Fishes,Ray-finned fishes,Parambassis ranga,Indian glassy fish,fParRan2,fParRan2.2.pri,GCA_900634625.2,GCF_900634625.1,GCF_900634625.1,"CLR I, FALCON unzip",UN
+f47,Fishes,Ray-finned fishes,Trachinops noarlungae,yellowhead hulafish,,,,,,,
+f48,Fishes,Ray-finned fishes,Astatotilapia calliptera,Eastern happy,fAstCal1,fAstCal68.1,GCA_964374335.1,,GCA_900246225.5,"ONT Herro, Hifiasm solo",F
+f48,Fishes,Ray-finned fishes,Archocentrus centrarchus,flier cichlid,fArcCen1,fArcCen1.pri,GCA_007364275.2,GCF_007364275.1,GCF_007364275.1,"CLR, FALCON unzip",M
+f48,Fishes,Ray-finned fishes,Haplochromis burtoni,Burton's mouthbrooder,fHapBur1,,,,,,
+f48,Fishes,Ray-finned fishes,Rhamphochromis chilingali,Chilingali cichlid,fRhaChi2,fRhaChi2.pri,GCA_963969265.1,,GCA_963969265.1,"HIFI, HiFiasm solo",F
+f48,Fishes,Ray-finned fishes,Aulonocara stuartgranti,flavescent peacock cichlid,fAulStu2,fAulStu2.pri,GCA_965226115.1,,GCA_965226115.1,"ONT duplex, Hifiasm solo",M
+f49,Fishes,Ray-finned fishes,Scatophagus argus,spotted scat,fScaArg1,fScaArg1.pri,GCA_020382885.1,GCF_020382885.2,GCF_020382885.2,"CLR I, FALCON unzip",UN
+f50,Fishes,Ray-finned fishes,Anableps anableps,largescale four-eyes,fAnaAna1,fAnaAna1.pri,GCA_014839685.1,,GCA_014839685.1,"CLR, FALCON unzip",M
+f50,Fishes,Ray-finned fishes,Girardinichthys multiradiatus,darkedged splitfin,DD_fGirMul_XY1,fGirMul1.pri,GCA_021462225.2,GCF_021462225.1,GCF_021462225.1,"CLR I, Damar",M
+f50,Fishes,Ray-finned fishes,Fundulus diaphanus,banded killifish,fFunDia1,fFunDia1.hap1,GCA_037039145.1,,GCA_037039145.1,"HiFi, Hifiasm Hi-C phasing",M
+f51,Fishes,Ray-finned fishes,Chelon labrosus,thicklip grey mullet,fCheLab1,fCheLab1.pri,GCA_963514085.1,,GCA_963514085.1,"HiFi, Hifiasm solo",UN
+f52,Fishes,Ray-finned fishes,Melanotaenia boesemani,Boeseman’s rainbowfish,fMelBoe1,fMelBoe1.pri,GCA_017639745.1,GCF_017639745.1,GCF_017639745.1,"CLR II, FALCON unzip",UN
+f52,Fishes,Ray-finned fishes,Telmatherina bonti,telmatherina bonti,fTelBon1,fTelBon1.pri,GCA_933228915.1,,GCA_933228915.1,"HiFi, Hifiasm solo",M
+f52,Fishes,Ray-finned fishes,Odontesthes bonariensis,pejerrey,fOdoBon6,fOdoBon6,GCA_027942865.1,,GCA_027942865.1,"HiFi, Hifiasm Hi-C phasing",F
+f52,Fishes,Ray-finned fishes,Menidia menidia,Atlantic silverside,fMenAtl1,fMenAtl1.hap1,GCA_048628825.1,,GCA_048628825.1,"HiFi, Hifiasm Hi-C phasing",M
+f53,Fishes,Ray-finned fishes,Xenentodon cancila,needlefish,fXenCan1,fXenCan1.pri,GCA_014839995.1,,GCA_014839995.1,"CLR I, FALCON unzip",M
+f54,Fishes,Ray-finned fishes,Pholidichthys leucotaenia,convict blenny,fPhoLeu1,fPhoLeu1.pri,GCA_020510985.1,,GCA_020510985.1,"CLR I, FALCON unzip",UN
+f55,Fishes,Ray-finned fishes,Hyperoplus immaculatus,greater sand eel,fHypImm3,fHypImm3.1.pri,GCA_949357725.1,,GCA_949357725.1,"HiFi, Hifiasm solo",UN
+f55,Fishes,Ray-finned fishes,Ammodytes marinus,lesseer sand eel,fAmmMar1,fAmmMar1.pri,GCA_949987685.1,,GCA_949987685.1,"HiFi, Hifiasm solo",F
+f56,Fishes,Ray-finned fishes,Salarias fasciatus,jewelled blenny,fSalaFa1,fSalaFa1.pri,GCA_902148845.1,GCF_902148845.1,GCF_902148845.1,"CLR I, FALCON unzip",UN
+f56,Fishes,Ray-finned fishes,Blennius ocellaris,butterfly blenny,fBleOce1,fBleOce1.pri,GCA_963422515.1,,GCA_963422515.1,"HiFi, Hifiasm solo",UN
+f56,Fishes,Ray-finned fishes,Lipophrys pholis,shanny,fLipPho2,fLipPho2.pri,GCA_963383615.1,,GCA_963383615.1,"HiFi, Hifiasm solo",UN
+f56,Fishes,Ray-finned fishes,Cristiceps australis,crested weedfish,fCriAus1,fCriAus1.hap1,GCA_049082185.1,,GCA_049082185.1,"HiFi, Hifiasm Hi-C phasing",UN
+f56,Fishes,Ray-finned fishes,Paraplesiops meleagris,Southern blue devil,fParMel1,,,,,,
+f57,Fishes,Ray-finned fishes,Diretmus argenteus,silver spinyfin,fDirArg1,fDirArg1.hap1,GCA_048569125.1,,GCA_048569125.1,"HiFi, Hifiasm Hi-C phasing",M
+f58,Fishes,Ray-finned fishes,Enoplosus armatus,old wife,fEnoArm2,fEnoArm2.hap1,GCA_043641665.1,GCF_043641665.1,GCF_043641665.1,"HiFi, Hifiasm Hi-C phasing",UN
+f58,Fishes,Ray-finned fishes,Micropterus salmoides,large-mouth bass,fMicSal1,fMicSal1.pri,GCA_019677235.1,,GCA_019677235.1,Mecat2,UN
+f58,Fishes,Ray-finned fishes,Chironemus georgianus,Western kelpfish,fChiGeo1,,,,,,
+f58,Fishes,Ray-finned fishes,Neatypus obliquus,Western footballer,fNeaAbl1,,,,,,
+f59,Fishes,Ray-finned fishes,Notolabrus celidotus,New Zealand spotty wrasse,fNotCel1,fNotCel1.pri,GCA_009762535.1,GCF_009762535.1,GCF_009762535.1,"CLR I, FALCON unzip",M
+f59,Fishes,Ray-finned fishes,Tautogolabrus adspersus,cunner,fTauAds1,fTauAds1.pri,GCA_020745685.1,,GCA_020745685.1,"CLR II, FALCON unzip",M
+f59,Fishes,Ray-finned fishes,Labrus mixtus,cuckoo wrasse,fLabMix1,fLabMix.pri,GCA_963584025.1,GCF_963584025.1,GCF_963584025.1,"HiFi, Hifiasm solo",M
+f59,Fishes,Ray-finned fishes,Labrus bergylta,ballan wrasse,fLabBer1,fLabBer1.pri,GCA_963930695.1,GCF_963930695.1,GCF_963930695.1,"HiFi, Hifiasm solo",F
+f59,Fishes,Ray-finned fishes,Symphodus melops,corkwing wrasse,fSymMel2,fSymMel2.pri,GCA_947650265.1,,GCA_947650265.1,"HiFi, Hifiasm solo",UN
+f59,Fishes,Ray-finned fishes,Thalassoma bifasciatum,bluehead wrasse,fThaBif1,,,,,,
+f59,Fishes,Ray-finned fishes,Notolabrus parilus,brownspotted wrasse,fNotPar1,,,,,,
+f59,Fishes,Ray-finned fishes,Choerodon schoenleinii,blackspot tuskfish,fChoSch1,fChoSch1.pri,GCA_047301625.1,,GCA_047301625.1,"HiFi, Hifiasm solo",UN
+f59,Fishes,Ray-finned fishes,Olisthops cyanomelas,herring cale,fOliCya1,,,,,,
+f59,Fishes,Ray-finned fishes,Heteroscarus acroptilus,rainbow cale,fHetAcr1,,,,,,
+f60,Fishes,Ray-finned fishes,Drepane punctata,spotted sicklefish,,,,,,,
+f61,Fishes,Ray-finned fishes,Cottoperca gobio,channel bull blenny,fCotGob3,fCotGob3.pri,GCA_900634415.1,GCF_900634415.1,GCF_900634415.1,"CLR I, FALCON unzip",UN
+f61,Fishes,Ray-finned fishes,Acanthopagrus latus,yellowfin sea bream,fAcaLat1,fAcaLat1.pri,GCA_904848185.1,GCF_904848185.1,GCF_904848185.1,"CLR, FALCON unzip",F
+f61,Fishes,Ray-finned fishes,Pholis gunnellus,rock gunnel,fPhoGun1,fPhoGun1.pri,GCA_910591455.2,,GCA_910591455.2,"HiFi, Hifiasm solo",UN
+f61,Fishes,Ray-finned fishes,Lycodopsis pacificus,blackbelly eelpout,fLycPai1,fLycPai1.hap2,GCA_028022725.1,,GCA_028022725.1,"HiFi, Hifiasm Hi-C phasing",F
+f61,Fishes,Ray-finned fishes,Melanostigma gelatinosum,limp eelpout,fMelGel1.1,fMelGel1.pri,GCA_949748355.1,,GCA_949748355.1,"HiFi, Hifiasm solo",UN
+f61,Fishes,Ray-finned fishes,Notothenia rossii,marbled rockcod,fNotRos5.1,fNotRos5.pri,GCA_949606895.1,,GCA_949606895.1,"HiFi, Hifiasm solo",UN
+f61,Fishes,Ray-finned fishes,Eutrigla gurnardus,grey gurnard,fEutGur1,fEutGur1.pri,GCA_963514095.1,,GCA_963514095.1,"HiFi, Hifiasm solo",UN
+f61,Fishes,Ray-finned fishes,Epinephelus rankini,rankin cod,fEpiMut1,fEpiMut1.hap1,GCA_048129235.1,,GCA_048129235.1,"HiFi, Hifiasm Hi-C phasing",UN
+f61,Fishes,Ray-finned fishes,Epinephelus lanceolatus,giant grouper,fEpiLan1,fEpiLan1.pri,GCA_041903045.1,,GCA_041903045.1,"HiFi, ONT, HiFiasm solo",F
+f61,Fishes,Ray-finned fishes,Leviprora inops,longhead flathead,fLevIno1,,,,,,
+f62,Fishes,Ray-finned fishes,Chelmon rostratus,copperband butterflyfish,fCheRos1,fCheRos1.pri,GCA_017976325.1,GCF_017976325.1,GCF_017976325.1,"CLR II, FALCON unzip",UN
+f62,Fishes,Ray-finned fishes,Chaetodon trifascialis,chevron butterflyfish,fChaTrf1,fChaTrf1.hap1,GCA_039877785.1,GCF_039877785.1,GCF_039877785.1,"HiFi, Hifiasm Hi-C phasing",M
+f63,Fishes,Ray-finned fishes,Datnioides microlepis,Indonesian tiger perch,fDatMic1,,,,,,
+f64,Fishes,Ray-finned fishes,Pristipomoides typus,sharptooth jobfish,fPriTyp1,fPriTyp1.hap1,GCA_045363895.1,,GCA_045363895.1,"HiFi, Hifiasm Hi-C phasing",UN
+f64,Fishes,Ray-finned fishes,Lutjanus quinquelineatus,five-lined snapper,fLutQui1,,,,,"HiFi, Hifiasm Hi-C phasing",
+f64,Fishes,Ray-finned fishes,Lutjanus carponotatus,stripey snapper,fLutCar1,,,,,,
+f64,Fishes,Ray-finned fishes,Lutjanus fulviflamma,blackspot snapper,fLutFuv1,,,,,,
+f64,Fishes,Ray-finned fishes,Lutjanus russellii,Moses' snapper,fLutRus1,,,,,,
+f64,Fishes,Ray-finned fishes,Lutjanus sebae,red emperor,fLutSeb1,,,,,,
+f64,Fishes,Ray-finned fishes,Lutjanus vitta,brownstripe snapper,fLutVit1,,,,,,
+f64,Fishes,Ray-finned fishes,Lutjanus erythropterus,crimson snapper,fLutJan1,fLutJan1.hap1,,,,,
+f64,Fishes,Ray-finned fishes,Symphorus nematophorus,chinamanfish,fSymNem1,fSymNem1.hap1,GCA_048128725.1,,GCA_048128725.1,"HiFi, Hifiasm Hi-C phasing",UN
+f64,Fishes,Ray-finned fishes,Caesio teres,yellow and blueback fusilier,fCaeTer1,fCaeTer1.hap1,GCA_048129055.1,,GCA_048129055.1,"HiFi, Hifiasm Hi-C phasing",UN
+f64,Fishes,Ray-finned fishes,Ctenochaetus striatus,striated surgeonfish,,,,,,,
+f64,Fishes,Ray-finned fishes,Pristigenys meyeri,redstripe bigeye,fPriMey1,,,,,,
+f64,Fishes,Ray-finned fishes,Parequula melbournensis,silverbelly,fParMeb1,,,,,,
+f65,Fishes,Ray-finned fishes,Sparus aurata,gilthead seabream,fSpaAur1,fSpaAur11.2.pri,GCA_900880675.2,GCF_900880675.1,GCF_900880675.1,"CLR II, FALCON unzip",UN
+f65,Fishes,Ray-finned fishes,Pagrus pagrus,common seabream,fPagPag1,fPagPag1.hap1,GCA_965226575.1,,GCA_965226575.1,"HiFi, Hifiasm Hi-C phasing",UN
+f65,Fishes,Ray-finned fishes,Acanthopagrus schlegelii,black porgy,fAcaSch1,fAcaSch1.pri,GCA_041753875.1,,GCA_041753875.1,"HiFi, ONT-UL, Hifiasm",M
+f65,Fishes,Ray-finned fishes,Lethrinus nebulosus,spangled emperor,fLetNeb1,fLetNeb1.hap1,GCA_045362495.1,,GCA_045362495.1,"HiFi, Hifiasm Hi-C phasing",UN
+f65,Fishes,Ray-finned fishes,Lethrinus laticaudis,grass snapper,fLetLat1,fLetLat1.hap1,,,,,
+f66,Fishes,Ray-finned fishes,Antennarius maculatus,warty frogfish,fAntMac1,fAntMac1.pri,GCA_013358685.1,,GCA_013358685.1,"CLR, FALCON unzip",UN
+f67,Fishes,Ray-finned fishes,Takifugu rubripes,Japanese puffer (torafugu),fTakRub1,fTakRub1.3.pri,GCA_901000725.3,GCF_901000725.2,GCF_901000725.2,"CLR II, FALCON unzip",M
+f67,Fishes,Ray-finned fishes,Diodon nicthemerus,globefish,fDioNic2,,,,,,
+f67,Fishes,Ray-finned fishes,Melichthys vidua,pinktail triggerfish,fMelVid1,,,,,,
+f67,Fishes,Ray-finned fishes,Ranzania laevis,slender sunfish,fRanLae1,,,,,,
+f68,Fishes,Ray-finned fishes,Pempheris klunzingeri,rough bullseye,fPemKlu1,fPemKlu1.hap1,GCA_042242105.1,GCF_042242105.1,GCF_042242105.1,"HiFi, Hifiasm Hi-C phasing",UN
+f68,Fishes,Ray-finned fishes,Pempheris schomburgkii,copper sweeper,,,,,,,
+f68,Fishes,Ray-finned fishes,Pentaceropsis recurvirostris,longsnout boarfish,fPenRec1,,,,,,
+f68,Fishes,Ray-finned fishes,Lateolabrax maculatus,Chinese sea bass,fLatMac1,fLatMac1.pri,GCA_031216445.1,,GCA_031216445.1,"HiFi, ONT-UL, Hifiasm",M
+f69,Fishes,Ray-finned fishes,Sphaeramia orbicularis,orbiculate cardinalfish,fSphaOr1,fSphaOr1.pri,GCA_902148855.1,GCF_902148855.1,GCF_902148855.1,"CLR I, FALCON unzip",M
+f70,Fishes,Ray-finned fishes,Gouania willdenowi,blunt-snouted clingfish,fGouWil1,fGouWil2.2.pri,GCA_900634775.2,GCF_900634775.1,GCF_900634775.1,"CLR I, FALCON unzip",UN
+f71,Fishes,Ray-finned fishes,Echiichthys vipera,lesser weever,fEchVip8,fEchVip8.pri,GCA_963691815.1,,GCA_963691815.1,"HiFi, Hifiasm solo",UN
+f72,Fishes,Ray-finned fishes,Cyclopterus lumpus,lumpfish,fCycLum1,fCycLum1.pri,GCA_009769545.1,GCF_009769545.1,GCF_009769545.1,"CLR I, FALCON unzip",M
+f73,Fishes,Ray-finned fishes,Sebastes umbrosus,honeycomb rockfish,fSebUmb1,fSebUmb1.pri,GCA_015220745.1,GCF_015220745.1,GCF_015220745.1,"CLR I, FALCON unzip",M
+f73,Fishes,Ray-finned fishes,Sebastes fasciatus,Acadian redfish,fSebFas1,fSebFas1.pri,GCA_043250625.1,,GCA_043250625.1,"HiFi, Hifiasm Hi-C phasing",M
+f73,Fishes,Ray-finned fishes,Sebastes mentella,Deepwater redfish,fSebMen1,,,,,,
+f73,Fishes,Ray-finned fishes,Taurulus bubalis,long-spined sea scorpion,fTauBub2,fTauBub2.pri,GCA_910589615.1,,GCA_910589615.1,"HiFi, Hifiasm solo",UN
+f73,Fishes,Ray-finned fishes,Myoxocephalus scorpius,shorthorn sculpin,fMyoSco1,,,,,,
+f73,Fishes,Ray-finned fishes,Spinachia spinachia,sea stickleback,fSpiSpi1,fSpiSpi1.hap1,GCA_048126635.1,,GCA_048126635.1,"HiFi, Hifiasm Hi-C phasing",UN
+f73,Fishes,Ray-finned fishes,Pungitius pungitius,ninespine stickleback,fPunPun2.1,fPunPun2.pri,GCA_949316345.1,GCF_949316345.1,GCF_949316345.1,"HiFi, Hifiasm solo",M
+f73,Fishes,Ray-finned fishes,Gasterosteus aculeatus,three-spined stickleback,fgasAcu3,fgasAcu3.hap1,GCA_964276395.1,,GCA_964276395.1,"HiFi, Hifiasm Hi-C phasing",M
+f92,Fishes,Ray-finned fishes,Neosynchiropus ocellatus,ocellated dragonet,fSynOce1,fSynOce1.hap1,GCA_044231665.1,,GCA_044231665.1,"HiFi, Hifiasm Hi-C phasing",UN
+f92,Fishes,Ray-finned fishes,Synchiropus picturatus,picturesque dragonet,fSynPic1,fSynPic1.hap2,GCA_044231675.1,,GCA_044231675.1,"HiFi, Hifiasm Hi-C phasing",UN
+f74,Fishes,Cartilaginous fishes,Hydrolagus colliei,spotted ratfish,sHydCol1,sHydCol1.hap2,GCA_035084275.1,,GCA_035084275.1,"HiFi, Hifiasm Hi-C phasing",M
+f75,Fishes,Cartilaginous fishes,Heterodontus francisci,horn shark,sHetFra1,sHetFra1.hap2,GCA_036365525.1,GCF_036365525.1,GCF_036365525.1,"HiFi, Hifiasm Hi-C phasing",F
+f75,Fishes,Cartilaginous fishes,Heterodontus portusjacksoni,Port Jackson shark,sHetPor1,sHetPor1.hap1,,,,"HiFi, Hifiasm Hi-C phasing",
+f76,Fishes,Cartilaginous fishes,Hemiscyllium ocellatum,epaulette shark,sHemOce1,sHemOce1.pat,GCA_020745735.1,GCF_020745735.1,GCF_020745735.1,"CLR II, TrioCanu",M
+f76,Fishes,Cartilaginous fishes,Stegostoma tigrinum,zebra shark,sSteTig4,sSteTig4.hap1,GCA_030684315.1,GCF_030684315.1,GCF_030684315.1,"HiFi, Hifiasm Hi-C phasing",M
+f76,Fishes,Cartilaginous fishes,Orectolobus wardi,Northern wobbegong,sOreWar1,,,,,,
+f77,Fishes,Cartilaginous fishes,Carcharodon carcharias,great white shark,sCarCar2,sCarCar2.pri,GCA_017639515.1,GCF_017639515.1,GCF_017639515.1,"CLR I, FALCON unzip",M
+f77,Fishes,Cartilaginous fishes,Cetorhinus maximus,basking shark,sCetMax3,sCetMax3.hap1,GCA_964194155.1,,GCA_964194155.1,"HiFi, Hifiasm Hi-C phasing",F
+f77,Fishes,Cartilaginous fishes,Carcharias taurus,sand tiger shark,sCarTau1,,,,,,
+f78,Fishes,Cartilaginous fishes,Scyliorhinus canicula,small-spotted catshark,sScyCan1,sScyCan1.pri,GCA_902713615.2,GCF_902713615.1,GCF_902713615.1,"CLR II, FALCON unzip",F
+f78,Fishes,Cartilaginous fishes,Mustelus asterias,starry smooth-hound shark,sMusAst1,sMusAst1.hap1,GCA_964213995.1,,GCA_964213995.1,"HiFi, Hifiasm Hi-C phasing",UN
+f78,Fishes,Cartilaginous fishes,Galeorhinus galeus,school shark,sGalGal3,sGalGal3.hap1,,,,,
+f79,Fishes,Cartilaginous fishes,Heptranchias perlo,sharpnose sevengill shark,sHepPer1,sHepPer1.hap1,GCA_035084215.1,GCF_035084215.1,GCF_035084215.1,"HiFi, Hifiasm Hi-C phasing",F
+f80,Fishes,Cartilaginous fishes,Squalus suckleyi,Pacific spiny dogfish,sSquSuc3,,,,,,
+f81,Fishes,Cartilaginous fishes,Echinorhinus cookei,prickly shark,,,,,,,
+f82,Fishes,Cartilaginous fishes,Squatina dumeril,Atlantic angel shark,,,,,,,
+f83,Fishes,Cartilaginous fishes,Pristiophorus japonicus,Japanese sawshark,sPriJap1,sPriJap1.hap1,GCA_044704955.1,GCF_044704955.1,GCF_044704955.1,"HiFi, Hifiasm Hi-C phasing",M
+f84,Fishes,Cartilaginous fishes,Narcine bancroftii,lesser electric ray,sNarBan1,sNarBan1.hap1,GCA_036971445.1,GCF_036971445.1,GCF_036971445.1,"HiFi, Hifiasm Hi-C phasing",M
+f85,Fishes,Cartilaginous fishes,Amblyraja radiata,thorny skate,sAmbRad1,sAmbRad1.pri,GCA_010909765.2,GCF_010909765.2,GCF_010909765.2,"CLR, Canu",F
+f85,Fishes,Cartilaginous fishes,Raja brachyura,blonde ray,sRajBra1,sRajBra1.pri,GCA_963514005.1,,GCA_963514005.1,"HiFi, Hifiasm solo",F
+f86,Fishes,Cartilaginous fishes,Pristis pectinata,smalltooth sawfish,sPriPec2,sPriPec2.pri,GCA_009764475.2,GCF_009764475.1,GCF_009764475.1,"CLR I, FALCON unzip",F
+f87,Fishes,Cartilaginous fishes,Hypanus sabinus,Atlantic stingray,sHypSab1,sHypSab1.hap1,GCA_030144855.1,GCF_030144855.1,GCF_030144855.1,"HiFi, Hifiasm Hi-C phasing",M
+f87,Fishes,Cartilaginous fishes,Potamotrygon marinae,gold dust stingray,sPotMar1,,,,,,
+f87,Fishes,Cartilaginous fishes,Mobula birostris,Atlantic manta ray,sMobBir1,sMobBir1.hap1,GCA_030028105.1,GCF_030028105.1,GCF_030028105.1,"HiFi, Hifiasm Hi-C phasing",F
+f88,Fishes,Lobe-finned fishes,Latimeria chalumnae,African coelacanth,fLatCha2,fLatCha2.pri,GCA_037176945.1,GCF_037176945.1,GCF_037176945.1,"HiFi, Hifiasm solo",F
+f89,Fishes,Lobe-finned fishes,Protopterus annectens,West African lungfish,kxProAnne1,kxProAnne1.pri,GCA_040939525.1,,GCA_040939525.1,,M
+f90,Fishes,Cyclostomes,Myxine glutinosa,Atlantic hagfish,kmMyxGlut1,kmMyxGlut1.pri,GCA_964187855.1,,GCA_964187855.1,"HiFi, Hifiasm solo",UN
+f91,Fishes,Cyclostomes,Petromyzon marinus,sea lamprey,kPetMar2,kPetMar2.pri,GCA_048934315.1,,GCA_048934315.1,"CLR I, FALCON unzip",M
+f91,Fishes,Cyclostomes,Lampetra fluviatilis,European river lamprey,kcLamFluv1,kcLamFluv1.pri,GCA_964198595.1,,GCA_964198595.1,"HiFi, HiFiasm solo",F
+i1,Invertebrates,Other Deuterostomes,Branchiostoma lanceolatum,European lancelet,klBraLanc5,klBraLanc5.hap2,GCA_035083965.1,,GCA_035083965.1,"HiFi, Hifiasm Hi-C phasing",F
+i1,Invertebrates,Other Deuterostomes,Branchiostoma belcheri,belcher's lancelet,iBraBel1,iBraBel1,GCA_019207075.1,,GCA_019207075.1,"CLR, TrioCanu variation",UN
+i1,Invertebrates,Other Deuterostomes,Branchiostoma floridae,Florida amphioxus,iBraFlo1,iBraFlo1,GCA_015852565.1,,GCA_015852565.1,"CLR, TrioCanu variation",UN
+i4,Invertebrates,Other Deuterostomes,Aplidium turbinatum,clonial sea squirt,kaAplTurb1,kaAplTurb1.pri,GCA_918807975.1,,GCA_918807975.1,"HiFi, HiFiasm solo",H
+i4,Invertebrates,Other Deuterostomes,Corella eumyota,Orange-tipped sea squirt,kaCorEumy4,kaCorEumy4.pri,GCA_963082875.1,,GCA_963082875.1,"HiFi, HiFiasm solo",H
+i4,Invertebrates,Other Deuterostomes,Clavelina lepadiformis,light-bulb sea squirt,kaClaLepa1,kaClaLepa1.pri,GCA_947623445.1,,GCA_947623445.1,"HiFi, HiFiasm solo",H
+i4,Invertebrates,Other Deuterostomes,Styela clava,leathery sea squirt,kaStyClav1,kaStyClav1.hap1,GCA_964204865.1,,GCA_964204865.1,"HiFi, Hifiasm Hi-C phasing",H
+i4,Invertebrates,Other Deuterostomes,Ascidiella aspersa,European sea squirt,kaAscAspe10,kaAscAspe10.pri,GCA_963924565.1,,GCA_963924565.1,"HiFi, HiFiasm solo",UN
+i4,Invertebrates,Other Deuterostomes,Ascidia mentula,pink sea squirt,kaAscMent1,kaAscMent1.pri,GCA_947561715.1,,GCA_947561715.1,"HiFi, HiFiasm solo",H
+i4,Invertebrates,Other Deuterostomes,Trididemnum clinides,Trididemnum clinides,kaTriClin1,kaTriClin1.pri,GCA_963675345.1,,GCA_963675345.1,"HiFi, HiFiasm solo",H
+i4,Invertebrates,Other Deuterostomes,Thalia democratica,Thalia democratica,ktThaDemo2,ktThaDemo2.hap1,GCA_965202585.1,,GCA_965202585.1,"HiFi, Hifiasm Hi-C phasing",
+i2,Invertebrates,Other Deuterostomes,Asterias rubens,common starfish,eAstRub1,eAstRub1.3.pri,GCA_902459465.3,,GCA_902459465.3,"CLR, FALCON unzip",M
+i3,Invertebrates,Other Deuterostomes,Balanoglossus misakiensis,acorn worm,ASM4095459v1,keSacHWa1.hap1,GCA_040954625.2,,GCA_040954625.2,"HiFi, Hifiasm Hi-C phasing",UN
