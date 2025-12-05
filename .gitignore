@@ -1,0 +1,27 @@
+# --- Big raw data runs (keep out of git for now) ---
+25.01.21_genomeark/
+25.04.15_ncbi_annotations/
+25.05.06_hprc_assemblies/
+25.06.04_ncbi_teloscope/
+25.06.11_vgp_assemblies/25.12.03_processed_TTAGGG/
+annotation_T2T_primates/
+gfa/
+
+# --- Large or transient figure dumps ---
+figures_FAC_presentation_2025/
+figures_FAC_report_2025/
+
+# --- Teloscope raw outputs by extension (wherever they appear) ---
+*.bed
+*.bedgraph
+*.telo.report
+*.path.report
+*.ls
+
+# --- Common noise ---
+*.log
+*.out
+*.tmp
+*.swp
+.DS_Store
+.ipynb_checkpoints/
