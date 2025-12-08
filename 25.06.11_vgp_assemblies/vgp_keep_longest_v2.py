@@ -10,21 +10,16 @@ base_dir = "/mnt/d/research/teloscope_article/25.06.11_vgp_assemblies"
 
 # Runs definition
 runs = [
-    # ("processed_NNNGGG_rgemi/primary", "NNNGGG"),
-    # ("processed_TTAGGG_rgemi/primary", "TTAGGG"),
-    ("processed_NNNGGG_ut100k/primary", "NNNGGG"),
-    ("processed_TTAGGG_ut100k/primary", "TTAGGG"),
-    # ("processed_NNNGGG_ut50k/primary", "NNNGGG"),
-    # ("processed_TTAGGG_ut50k/primary", "TTAGGG"),
+    ("25.12.03_processed_TTAGGG/primary", "TTAGGG")
 ]
 
 for run_subpath, run_label in runs:
     run_dir = os.path.join(base_dir, run_subpath)
-    merged_bed = os.path.join(run_dir, f"merged_{run_label}_terminal_telomeres.bed")
-    output_bed = os.path.join(run_dir, f"merged_{run_label}_terminal_telomeres_longest_pq.bed")
+    compiled_bed = os.path.join(run_dir, f"compiled_{run_label}_terminal_telomeres.bed")
+    output_bed = os.path.join(run_dir, f"compiled_{run_label}_terminal_telomeres_longest_pq.bed")
 
-    # Read merged BED
-    df = pd.read_csv(merged_bed, sep='\t', header=None)
+    # Read compiled BED
+    df = pd.read_csv(compiled_bed, sep='\t', header=None)
 
     # Define columns explicitly for clarity
     df.columns = [
