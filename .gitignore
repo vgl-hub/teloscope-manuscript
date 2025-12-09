@@ -12,11 +12,20 @@ figures_FAC_presentation_2025/
 figures_FAC_report_2025/
 
 # --- Teloscope raw outputs by extension (wherever they appear) ---
-*.bed
-*.bedgraph
-*.telo.report
+*_canonical_matches.bed
+*_noncanonical_matches.bed
+*_window_metrics.bedgraph
 *.path.report
 *.ls
+
+
+# --- Heavy raw data ---
+*.fa
+*.fa.gz
+*.fasta
+*.fasta.gz
+*.fna
+*.fna.gz
 
 # --- Common noise ---
 *.log
