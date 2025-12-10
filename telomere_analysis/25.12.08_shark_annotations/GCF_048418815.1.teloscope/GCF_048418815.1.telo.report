@@ -1,0 +1,70 @@
+Scanning 38 telomeric variants (includes reverse complements).
+Edit distance enabled: up to 1 substitution per seed.
+Outputs: GC windows, repeat density, Shannon entropy, genome-wide matches, ITS blocks.
+
++++ Path Summary Report +++
+pos	header	telomeres	labels	gaps	type	granular	its	canonical	windows
+1	NC_133124.1	2	pq	79	gapped_t2t	PpppqqqqqQ	108	81217	441484
+2	NC_133125.1	1	p	83	gapped_missassembly	Pppppp	50	67358	402834
+3	NC_133126.1	2	pq	41	gapped_t2t	PqQ	506	79030	417458
+4	NC_133127.1	1	q	39	gapped_missassembly	Qqqq	35	68525	401863
+5	NC_133128.1	1	p	34	gapped_missassembly	ppPp	364	80886	395571
+6	NC_133129.1	2	pq	63	gapped_t2t	pPQ	57	56668	362114
+7	NC_133130.1	2	qp	48	gapped_missassembly	qQP	71	64432	368500
+8	NC_133131.1	2	qp	50	gapped_missassembly	qqqQPppp	130	64819	361309
+9	NC_133132.1	2	pq	45	gapped_t2t	qqqqqpPqqQ	482	77047	354701
+10	NC_133133.1	2	qp	47	gapped_missassembly	qQP	462	65764	353098
+11	NC_133134.1	1	q	64	gapped_missassembly	qqqQ	267	61473	344585
+12	NC_133135.1	1	p	28	gapped_missassembly	ppppPpp	53	40142	228128
+13	NC_133136.1	1	q	18	gapped_missassembly	qqQ	106	37514	222028
+14	NC_133137.1	2	pq	19	gapped_t2t	PqqQ	40	38991	218088
+15	NC_133138.1	2	pq	20	gapped_t2t	PpqqqqqqqqqQ	63	35784	191344
+16	NC_133139.1	2	pq	18	gapped_t2t	PpqqQ	40	34365	183101
+17	NC_133140.1	1	q	27	gapped_missassembly	qqqqQq	49	32976	182962
+18	NC_133141.1	2	qp	53	gapped_missassembly	QPq	19	25613	158372
+19	NC_133142.1	2	pq	12	gapped_discordant	ppPq*Q*qppp	10	26074	155430
+20	NC_133143.1	1	q	21	gapped_missassembly	qqqqQ	58	23204	145594
+21	NC_133144.1	1	q	14	gapped_missassembly	qQ	18	27190	142246
+22	NC_133145.1	1	p	15	gapped_missassembly	Ppp	26	20613	133661
+23	NC_133146.1	2	pq	12	gapped_t2t	PQ	11	22788	133794
+24	NC_133147.1	1	p	71	gapped_missassembly	Pppp	11	13487	98692
+25	NC_133148.1	2	pq	61	gapped_t2t	PpqqQ	166	23960	110791
+26	NC_133149.1	1	q	25	gapped_missassembly	qqqqqqqqQ	27	22383	119357
+27	NC_133150.1	2	pq	16	gapped_t2t	PqQ	27	18786	110080
+28	NC_133151.1	1	p	60	gapped_missassembly	pP	29	11689	95351
+29	NC_133152.1	2	pq	11	gapped_t2t	PqQ	14	20611	96559
+30	NC_133153.1	1	q	11	gapped_incomplete	Q	12	14838	89717
+31	NC_133154.1	1	p	29	gapped_missassembly	Ppp	20	13463	79809
+32	NC_133155.1	0	none	12	gapped_none		14	12473	80473
+33	NC_021132.1	0	none	0	none		0	17	35
+
++++ Assembly Summary Report +++
+Total paths:	33
+Total gaps:	1146
+Total telomeres:	47
+Total ITS blocks:	3345
+Total canonical matches:	1284180
+Total windows analyzed:	7179129
+
++++ Telomere Statistics +++
+Mean length:	10847.1
+Median length:	7973
+Min length:	674
+Max length:	36114
+
++++ Chromosome Telomere Counts+++
+Two telomeres:	29
+One telomere:	1
+Zero telomeres:	2
+
++++ Chromosome Telomere/Gap Completeness+++
+T2T:	0
+Gapped T2T:	11
+Missassembled:	0
+Gapped missassembled:	18
+Incomplete:	0
+Gapped incomplete:	1
+No telomeres:	1
+Gapped no telomeres:	1
+Discordant:	0
+Gapped discordant:	1

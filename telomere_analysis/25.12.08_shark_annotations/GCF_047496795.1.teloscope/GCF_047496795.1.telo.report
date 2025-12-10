@@ -1,0 +1,91 @@
+Scanning 38 telomeric variants (includes reverse complements).
+Edit distance enabled: up to 1 substitution per seed.
+Outputs: GC windows, repeat density, Shannon entropy, genome-wide matches, ITS blocks.
+
++++ Path Summary Report +++
+pos	header	telomeres	labels	gaps	type	granular	its	canonical	windows
+1	NC_092739.1	2	qp	49	gapped_missassembly	QP	144	80926	362327
+2	NC_092740.1	1	q	36	gapped_missassembly	Qq	58	67219	324958
+3	NC_092741.1	0	none	79	gapped_none		81	63114	323806
+4	NC_092742.1	1	p	46	gapped_incomplete	P	1356	75532	298745
+5	NC_092743.1	2	pq	35	gapped_t2t	PQ	78	60841	292643
+6	NC_092744.1	0	none	46	gapped_none		54	50423	292103
+7	NC_092745.1	1	p	53	gapped_incomplete	P	87	53634	271795
+8	NC_092746.1	1	q	38	gapped_incomplete	Q	35	54949	269344
+9	NC_092747.1	1	q	19	gapped_missassembly	Qq	316	57501	258163
+10	NC_092748.1	1	q	32	gapped_incomplete	Q	55	52451	247294
+11	NC_092749.1	2	pq	31	gapped_t2t	PQ	99	50530	234160
+12	NC_092750.1	1	p	55	gapped_incomplete	P	73	44507	228062
+13	NC_092751.1	1	q	85	gapped_incomplete	Q	68	44188	222301
+14	NC_092752.1	2	pq	42	gapped_t2t	PQ	37	39977	213268
+15	NC_092753.1	1	p	35	gapped_missassembly	Pp	38	45135	209596
+16	NC_092754.1	2	pq	58	gapped_t2t	PQ	40	42465	207953
+17	NC_092755.1	1	p	46	gapped_incomplete	P	68	38447	207013
+18	NC_092756.1	1	q	60	gapped_missassembly	qQ	252	44573	204314
+19	NC_092757.1	1	q	58	gapped_incomplete	Q	51	38768	196492
+20	NC_092758.1	2	pq	11	gapped_t2t	PQ	49	43932	191366
+21	NC_092759.1	2	pq	114	gapped_discordant	P*Qq	117	34907	187471
+22	NC_092760.1	2	pq	29	gapped_t2t	Pp*p*Q	49	38917	187317
+23	NC_092761.1	1	q	50	gapped_missassembly	Qq	68	42555	186994
+24	NC_092762.1	2	pq	36	gapped_t2t	PQ	46	36618	180363
+25	NC_092763.1	1	q	13	gapped_incomplete	Q	53	35268	176926
+26	NC_092764.1	1	p	27	gapped_incomplete	P	26	34229	170025
+27	NC_092765.1	1	q	12	gapped_incomplete	Q	53	32322	169035
+28	NC_092766.1	1	q	157	gapped_incomplete	Q	47	33687	168081
+29	NC_092767.1	1	q	57	gapped_incomplete	Q	164	37294	163890
+30	NC_092768.1	1	p	130	gapped_incomplete	P	110	43163	162499
+31	NC_092769.1	2	pq	115	gapped_t2t	Pq*Q	65	38322	161309
+32	NC_092770.1	1	p	28	gapped_incomplete	P	46	30614	160315
+33	NC_092771.1	1	q	41	gapped_incomplete	Q	38	28199	156323
+34	NC_092772.1	1	q	147	gapped_incomplete	Q	162	42427	153389
+35	NC_092773.1	1	p	68	gapped_missassembly	pP	29	32627	153426
+36	NC_092774.1	1	q	105	gapped_incomplete	Q	19	32808	152389
+37	NC_092775.1	1	p	15	gapped_incomplete	P	32	30476	151170
+38	NC_092776.1	1	p	28	gapped_incomplete	P	39	33894	149811
+39	NC_092777.1	0	none	31	gapped_none		55	25420	141566
+40	NC_092778.1	2	qp	22	gapped_missassembly	QPq	100	33112	139432
+41	NC_092779.1	1	p	28	gapped_incomplete	P	15	26738	138172
+42	NC_092780.1	1	p	25	gapped_missassembly	pP	171	33561	134913
+43	NC_092781.1	1	p	32	gapped_incomplete	P	3	20744	132613
+44	NC_092782.1	1	q	11	gapped_incomplete	Q	324	28385	132161
+45	NC_092783.1	1	q	17	gapped_incomplete	Q	56	29826	131886
+46	NC_092784.1	1	q	30	gapped_missassembly	Qq	152	27604	129033
+47	NC_092785.1	1	p	123	gapped_incomplete	P	106	30156	125998
+48	NC_092786.1	0	none	26	gapped_none		24	27429	125105
+49	NC_092787.1	2	pq	30	gapped_t2t	qppPqQ	37	26784	124204
+50	NC_092788.1	0	none	83	gapped_none		13	22274	114984
+51	NC_092789.1	1	q	32	gapped_incomplete	Q	7	17634	109184
+52	NC_092790.1	0	none	46	gapped_none		21	17172	99976
+53	NC_092791.1	1	p	63	gapped_discordant	P*	17	15960	72004
+54	NC_092792.1	1	q	0	incomplete	Q	0	3167	9239
+
++++ Assembly Summary Report +++
+Total paths:	54
+Total gaps:	2685
+Total telomeres:	60
+Total ITS blocks:	5303
+Total canonical matches:	2073405
+Total windows analyzed:	9906906
+
++++ Telomere Statistics +++
+Mean length:	14292.9
+Median length:	12697.5
+Min length:	1176
+Max length:	44934
+
++++ Chromosome Telomere Counts+++
+Two telomeres:	19
+One telomere:	27
+Zero telomeres:	6
+
++++ Chromosome Telomere/Gap Completeness+++
+T2T:	0
+Gapped T2T:	9
+Missassembled:	0
+Gapped missassembled:	10
+Incomplete:	1
+Gapped incomplete:	26
+No telomeres:	0
+Gapped no telomeres:	6
+Discordant:	0
+Gapped discordant:	2
