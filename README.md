@@ -4,7 +4,7 @@ Scripts and data used for the VGP telomeres manuscript
 # Structure
 ## Code
 Including processing Teloscope outputs, parsing BED/BEDgraphs and reports.
-This also includes code to generate plots. 
+This also includes code for exploratory analyses and to generate plots. 
 
 ## Data
 Condensed dataframes corresponding to the latest VGP data freeze available.
