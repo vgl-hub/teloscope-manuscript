@@ -1,0 +1,89 @@
+Scanning 38 telomeric variants (includes reverse complements).
+Edit distance enabled: up to 1 substitution per seed.
+Outputs: GC windows, repeat density, Shannon entropy, genome-wide matches, ITS blocks.
+
++++ Path Summary Report +++
+pos	header	telomeres	labels	gaps	type	granular	its	canonical	windows
+1	CM071036.1	2	pq	125	gapped_t2t	PQ	140	107896	573364
+2	CM071037.1	0	none	125	gapped_none		71	83028	450130
+3	CM071038.1	0	none	100	gapped_none		74	70208	426989
+4	CM071039.1	1	p	89	gapped_incomplete	P	65	79908	422478
+5	CM071040.1	1	p	97	gapped_incomplete	P	113	79523	415367
+6	CM071041.1	0	none	82	gapped_none		72	58048	324573
+7	CM071042.1	1	p	75	gapped_incomplete	P	38	53480	281932
+8	CM071043.1	1	p	71	gapped_incomplete	P	41	45666	272739
+9	CM071044.1	1	p	84	gapped_incomplete	P	76	47307	260020
+10	CM071045.1	1	q	53	gapped_missassembly	qQ	185	45283	251683
+11	CM071046.1	1	q	56	gapped_missassembly	qQ	228	45492	242745
+12	CM071047.1	1	q	53	gapped_incomplete	Q	102	43826	243055
+13	CM071048.1	1	p	65	gapped_incomplete	P	24	45572	239436
+14	CM071049.1	1	q	55	gapped_incomplete	Q	42	38027	222438
+15	CM071050.1	1	p	43	gapped_missassembly	Pp	37	39921	215386
+16	CM071051.1	1	q	46	gapped_missassembly	qQ	50	35546	205776
+17	CM071052.1	1	p	56	gapped_incomplete	P	88	37587	198595
+18	CM071053.1	1	p	54	gapped_incomplete	P	18	33257	195833
+19	CM071054.1	0	none	44	gapped_none		117	34760	188574
+20	CM071055.1	1	q	56	gapped_discordant	Q*	80	33303	185124
+21	CM071056.1	0	none	27	gapped_none		48	20858	179504
+22	CM071057.1	0	none	33	gapped_none		25	20783	166799
+23	CM071058.1	1	p	54	gapped_incomplete	P	32	29125	165840
+24	CM071059.1	0	none	54	gapped_none		12	26284	162120
+25	CM071060.1	1	q	39	gapped_discordant	Q*q	31	29283	156374
+26	CM071061.1	0	none	62	gapped_none		71	30615	154277
+27	CM071062.1	0	none	37	gapped_none		23	25685	149788
+28	CM071063.1	2	qp	54	gapped_discordant	Q*p*P*	108	39333	149720
+29	CM071064.1	0	none	48	gapped_none		127	21938	148221
+30	CM071065.1	1	p	50	gapped_incomplete	P	45	29352	128663
+31	CM071066.1	0	none	28	gapped_none		26	23252	129577
+32	CM071067.1	0	none	40	gapped_none		48	21156	124527
+33	CM071068.1	1	q	21	gapped_discordant	Q*q	24	21305	120282
+34	CM071069.1	0	none	34	gapped_none		13	15013	118680
+35	CM071070.1	1	q	30	gapped_discordant	Q*	53	79980	116155
+36	CM071071.1	0	none	50	gapped_none		29	19587	111346
+37	CM071072.1	0	none	28	gapped_none		37	17151	102294
+38	CM071073.1	0	none	23	gapped_none		22	16000	92291
+39	CM071074.1	0	none	49	gapped_none		60	12339	88114
+40	CM071075.1	0	none	24	gapped_none		179	18361	83226
+41	CM071076.1	0	none	43	gapped_none		20	12049	77576
+42	CM071077.1	1	p	22	gapped_incomplete	P	13	12491	73133
+43	CM071078.1	0	none	24	gapped_none		54	10279	63439
+44	CM071079.1	0	none	41	gapped_none		17	6935	54961
+45	CM071080.1	0	none	26	gapped_none		3	4546	54474
+46	CM071081.1	1	p	53	gapped_missassembly	Pp	45	6875	43738
+47	CM071082.1	1	q	22	gapped_incomplete	Q	26	8507	39652
+48	CM071083.1	1	q	40	gapped_discordant	Q*	89	7595	38287
+49	CM071084.1	0	none	32	gapped_none		27	5371	31802
+50	CM071085.1	0	none	1	gapped_none		1	2361	21087
+51	CM071086.1	2	qp	38	gapped_discordant	Q*p*p*p*P*p*p*	36	52390	75283
+52	CM071111.1	0	none	0	none		0	12	33
+
++++ Assembly Summary Report +++
+Total paths:	52
+Total gaps:	2556
+Total telomeres:	30
+Total ITS blocks:	3005
+Total canonical matches:	1704449
+Total windows analyzed:	9037500
+
++++ Telomere Statistics +++
+Mean length:	19749
+Median length:	12558
+Min length:	793
+Max length:	88998
+
++++ Chromosome Telomere Counts+++
+Two telomeres:	6
+One telomere:	14
+Zero telomeres:	25
+
++++ Chromosome Telomere/Gap Completeness+++
+T2T:	0
+Gapped T2T:	1
+Missassembled:	0
+Gapped missassembled:	5
+Incomplete:	0
+Gapped incomplete:	14
+No telomeres:	1
+Gapped no telomeres:	24
+Discordant:	0
+Gapped discordant:	7

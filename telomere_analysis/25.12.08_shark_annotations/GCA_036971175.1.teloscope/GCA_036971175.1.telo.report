@@ -1,0 +1,51 @@
+Scanning 38 telomeric variants (includes reverse complements).
+Edit distance enabled: up to 1 substitution per seed.
+Outputs: GC windows, repeat density, Shannon entropy, genome-wide matches, ITS blocks.
+
++++ Path Summary Report +++
+pos	header	telomeres	labels	gaps	type	granular	its	canonical	windows
+1	CM072956.1	1	p	151	gapped_missassembly	p*p*Pppp	219	149914	990061
+2	CM072957.1	2	pq	205	gapped_t2t	PQq	228	107199	742409
+3	CM072958.1	1	q	175	gapped_missassembly	Qq	158	117013	750798
+4	CM072959.1	0	none	119	gapped_none		84	88913	610003
+5	CM072960.1	1	p	169	gapped_incomplete	P	85	79319	517635
+6	CM072961.1	0	none	118	gapped_none		72	75880	516758
+7	CM072962.1	0	none	85	gapped_none		60	57390	409723
+8	CM072963.1	1	q	95	gapped_incomplete	Q	67	48569	361117
+9	CM072964.1	2	pq	50	gapped_t2t	PQ	45	41063	254799
+10	CM072965.1	0	none	42	gapped_none		74	33230	216508
+11	CM072966.1	0	none	96	gapped_none		487	33416	186963
+12	CM072967.1	0	none	43	gapped_none		35	21686	152653
+13	CM072968.1	0	none	87	gapped_none		30	24581	175556
+14	CM072969.1	0	none	53	gapped_none		538	27653	151478
+
++++ Assembly Summary Report +++
+Total paths:	14
+Total gaps:	1488
+Total telomeres:	8
+Total ITS blocks:	2182
+Total canonical matches:	905826
+Total windows analyzed:	6036461
+
++++ Telomere Statistics +++
+Mean length:	12865.8
+Median length:	11942.5
+Min length:	5306
+Max length:	23282
+
++++ Chromosome Telomere Counts+++
+Two telomeres:	4
+One telomere:	2
+Zero telomeres:	8
+
++++ Chromosome Telomere/Gap Completeness+++
+T2T:	0
+Gapped T2T:	2
+Missassembled:	0
+Gapped missassembled:	2
+Incomplete:	0
+Gapped incomplete:	2
+No telomeres:	0
+Gapped no telomeres:	8
+Discordant:	0
+Gapped discordant:	0

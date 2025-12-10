@@ -1,0 +1,73 @@
+Scanning 38 telomeric variants (includes reverse complements).
+Edit distance enabled: up to 1 substitution per seed.
+Outputs: GC windows, repeat density, Shannon entropy, genome-wide matches, ITS blocks.
+
++++ Path Summary Report +++
+pos	header	telomeres	labels	gaps	type	granular	its	canonical	windows
+1	JAGDEF010000001.1	0	none	0	none		0	12	40
+2	JAGDEF010000010.1	0	none	1	gapped_none		0	23	101
+3	JAGDEF010000011.1	0	none	1	gapped_none		0	29	79
+4	JAGDEF010000012.1	0	none	1	gapped_none		0	18	73
+5	JAGDEF010000013.1	0	none	1	gapped_none		0	17	72
+6	JAGDEF010000014.1	0	none	0	none		0	2	20
+7	JAGDEF010000015.1	0	none	0	none		0	0	71
+8	JAGDEF010000016.1	0	none	1	gapped_none		0	22	81
+9	JAGDEF010000017.1	0	none	1	gapped_none		0	21	121
+10	JAGDEF010000018.1	0	none	1	gapped_none		0	22	69
+11	JAGDEF010000019.1	0	none	1	gapped_none		0	5	54
+12	JAGDEF010000002.1	0	none	1	gapped_none		0	24	111
+13	JAGDEF010000020.1	0	none	0	none		0	0	8
+14	JAGDEF010000021.1	0	none	1	gapped_none		0	24	114
+15	JAGDEF010000022.1	0	none	1	gapped_none		0	10	55
+16	JAGDEF010000023.1	0	none	1	gapped_none		0	30	160
+17	JAGDEF010000024.1	0	none	1	gapped_none		0	12	46
+18	JAGDEF010000025.1	0	none	0	none		0	808	5132
+19	JAGDEF010000026.1	0	none	0	none		0	0	69
+20	JAGDEF010000027.1	0	none	3	gapped_none		0	222	1180
+21	JAGDEF010000028.1	0	none	0	none		0	0	3
+22	JAGDEF010000029.1	0	none	0	none		2	180	1677
+23	JAGDEF010000003.1	0	none	2	gapped_none		0	72	412
+24	JAGDEF010000030.1	0	none	1	gapped_none		0	29	116
+25	JAGDEF010000031.1	0	none	0	none		0	16	45
+26	JAGDEF010000032.1	0	none	0	none		0	1	662
+27	JAGDEF010000033.1	0	none	0	none		0	3	281
+28	JAGDEF010000034.1	0	none	0	none		0	22	213
+29	JAGDEF010000035.1	0	none	0	none		0	27	135
+30	JAGDEF010000036.1	0	none	0	none		0	1	64
+31	JAGDEF010000037.1	0	none	0	none		0	20	110
+32	JAGDEF010000038.1	0	none	2	gapped_none		0	39	205
+33	JAGDEF010000039.1	0	none	1	gapped_none		0	28	152
+34	JAGDEF010000004.1	0	none	0	none		0	0	76
+35	JAGDEF010000005.1	0	none	2	gapped_none		0	26	168
+36	JAGDEF010000006.1	0	none	1	gapped_none		0	32	154
+37	JAGDEF010000007.1	0	none	1	gapped_none		0	9	56
+38	JAGDEF010000008.1	0	none	1	gapped_none		0	19	112
+39	JAGDEF010000009.1	0	none	1	gapped_none		0	20	76
+
++++ Assembly Summary Report +++
+Total paths:	39
+Total gaps:	28
+Total telomeres:	0
+Total ITS blocks:	2
+Total canonical matches:	1845
+Total windows analyzed:	12373
+
++++ Telomere Statistics +++
+No telomeres found for statistics.
+
++++ Chromosome Telomere Counts+++
+Two telomeres:	0
+One telomere:	0
+Zero telomeres:	39
+
++++ Chromosome Telomere/Gap Completeness+++
+T2T:	0
+Gapped T2T:	0
+Missassembled:	0
+Gapped missassembled:	0
+Incomplete:	0
+Gapped incomplete:	0
+No telomeres:	16
+Gapped no telomeres:	23
+Discordant:	0
+Gapped discordant:	0
