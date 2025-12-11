@@ -33,3 +33,4 @@ figures_FAC_report_2025/
 *.swp
 .DS_Store
 .ipynb_checkpoints/
+data/2_processed/25.12.05_compiled_TTAGGG_interstitial_telomeres.bed
