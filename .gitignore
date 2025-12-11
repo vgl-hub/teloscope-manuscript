@@ -18,7 +18,6 @@ figures_FAC_report_2025/
 *.path.report
 *.ls
 
-
 # --- Heavy raw data ---
 *.fa
 *.fa.gz
