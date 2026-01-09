@@ -32,6 +32,16 @@ figures_FAC_report_2025/
 *.fna
 *.fna.gz
 *.ai
+*.ai.gz
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.vcf
+*.vcf.gz
 
 # --- Common noise ---
 *.log
