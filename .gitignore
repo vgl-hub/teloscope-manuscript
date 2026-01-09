@@ -4,18 +4,14 @@
 25.05.06_hprc_assemblies/
 25.06.04_ncbi_teloscope/
 25.06.11_vgp_assemblies/25.12.03_processed_TTAGGG/
+annotation_T2T_primates/
+gfa/
+runs/
 
 # --- Big folders ---
 2_data/2.1_raw/
 2_data/2.2_processed/25.12.05_compiled_TTAGGG_interstitial_telomeres.bed
 3_figures/3.3_backup/
-annotation_T2T_primates/
-gfa/
-runs/
-
-# --- Large or transient figure dumps ---
-figures_FAC_presentation_2025/
-figures_FAC_report_2025/
 
 # --- Teloscope raw outputs by extension (wherever they appear) ---
 *_canonical_matches.bed
@@ -50,4 +46,3 @@ figures_FAC_report_2025/
 *.swp
 .DS_Store
 .ipynb_checkpoints/
-
